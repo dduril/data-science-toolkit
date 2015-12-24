@@ -41,7 +41,9 @@
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
 - **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**
 
-
+### Downloads
+- **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
+- **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
 
 
 

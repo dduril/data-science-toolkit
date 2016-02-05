@@ -28,7 +28,7 @@ I am currently working through a number of classes offered by <a href="https://w
 MySQL and SQLite are included as they often serve as the data store and they're also handy for quick data import/analysis projects. The software and the tools are free to download.
 
 - **<a href="https://www.mysql.com/" target="_blank" title="MySQL">MySQL</a>**
-- **<a href="http://dev.mysql.com/" target="_blank" title="MySQL Developer Zone">DevZone</a>**
+- **<a href="http://dev.mysql.com/" target="_blank" title="MySQL Developer Zone">MySQL Developer Zone</a>**
 - **<a href="https://www.mysql.com/products/workbench/" target="_blank" title="MySQL Workbench">MySQL Workbench</a>**
 
 

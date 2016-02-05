@@ -23,6 +23,15 @@ I am currently working through a number of classes offered by <a href="https://w
 - **<a href="http://www.oracle.com/technetwork/developer-tools/jdev/overview/index.html" target="_blank" title="JDeveloper">JDeveloper</a>**
 - **<a href="https://netbeans.org/" target="_blank" title="NetBeans">NetBeans</a>**, **<a href="https://netbeans.org/downloads/" target="_blank" title="NetBeans Downloads">Downloads</a>**, **<a href="https://netbeans.org/kb/index.html" target="_blank" title="NetBeans Documentation">Documentation</a>** 
   
+### MySQL
+
+MySQL and SQLite are included as they often serve as the data store and they're also handy for quick data import/analysis projects. The software and the tools are free to download.
+
+- **<a href="https://www.mysql.com/" target="_blank" title="MySQL">MySQL</a>**
+- **<a href="http://dev.mysql.com/" target="_blank" title="MySQL Developer Zone">DevZone</a>**
+- **<a href="https://www.mysql.com/products/workbench/" target="_blank" title="MySQL Workbench">MySQL Workbench</a>**
+
+
 ### Perl
 
 - **<a href="https://www.perl.org/" target="_blank" title="Perl">Perl.org: The Perl Programming Language</a>**

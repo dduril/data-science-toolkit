@@ -3,13 +3,14 @@
 ### Hadoop
 
 - **<a href="https://hadoop.apache.org/" target="_blank" title="Apache Hadoop">Apache Hadoop</a>**
-- **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
+- **<a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html" target="_blank">HDFS Command Line</a>**
 
 ### Java
 
 - **<a href="https://www.oracle.com/java/index.html" target="_blank" title="Java">Java</a>**
-- **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network</a>**
+- **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network (OTN)</a>**
 - **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Java Tutorials</a>**
+- **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Java Downloads</a>**
 
 ### Java IDEs
 
@@ -31,17 +32,23 @@
 ### R
 
 - **<a href="https://www.r-project.org/" target="_blank" title="R">The R Project for Statistical Computing</a>**
-     
-### RStudio
-
-- **<a href="https://www.rstudio.com/" target="_blank" title="RStudio">RStudio Home</a>**
-- **<a href="https://www.rstudio.com/products/rstudio/" target="_blank" title="RStudio">RStudio Products</a>**
+- **<a href="https://www.rstudio.com/" target="_blank" title="R">RStudio</a>** - Integrated development environment for R programming
+- **<a href="http://rcharts.io/" target="_blank" title="R">rCharts</a>** - R package to create, customize and publish interactive JavaScript visualizations from R
+- **<a href="http://shiny.rstudio.com/" target="_blank" title="R">Shiny</a>** - Web application framework for R
 
 ### SQLite
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
 - **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**
 
-### Downloads
+### Vendors
+- **<a href="http://cloudera.com/" target="_blank">Cloudera</a>**
+- **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
+- **<a href="http://www.ibm.com/big-data/us/en/" target="_blank">IBM Big Data</a>**
+- **<a href="https://www.mapr.com/" target="_blank">MapR</a>**
+- **<a href="https://www.palantir.com/" target="_blank">Palantir</a>**
+- **<a href="http://www.splunk.com/" target="_blank">Splunk</a>**
+
+### VM Downloads
 - **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
 - **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
 

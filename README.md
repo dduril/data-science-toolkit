@@ -1,5 +1,9 @@
 # Data Science Toolkit
 
+Resources for Big Data and Data Science development projects. 
+
+I am currently working through a number of classes offered by Coursera, and committing popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly.
+
 ### Hadoop
 
 - **<a href="https://hadoop.apache.org/" target="_blank" title="Apache Hadoop">Apache Hadoop</a>**

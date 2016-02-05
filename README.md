@@ -2,7 +2,7 @@
 
 Resources for Big Data and Data Science development projects. 
 
-I am currently working through a number of classes offered by Coursera, and committing popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly.
+I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a>, and committing popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly.
 
 ### Hadoop
 
@@ -12,9 +12,9 @@ I am currently working through a number of classes offered by Coursera, and comm
 ### Java
 
 - **<a href="https://www.oracle.com/java/index.html" target="_blank" title="Java">Java</a>**
+- **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Downloads</a>**
+- **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Tutorial</a>**
 - **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network (OTN)</a>**
-- **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Java Tutorials</a>**
-- **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Java Downloads</a>**
 
 ### Java IDEs
 

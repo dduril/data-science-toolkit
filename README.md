@@ -25,6 +25,7 @@ I am currently working through a number of classes offered by <a href="https://w
 ### Cassandra
 
 - **<a href="http://cassandra.apache.org/" target="_blank" title="Apache Cassandra">Cassandra</a>**
+- **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
 
 ### Hadoop
 

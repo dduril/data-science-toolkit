@@ -7,7 +7,20 @@ I am currently working through a number of classes offered by <a href="https://w
 ### Apache
 
 - **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>**
-- Some of the main Big Data/Hadoop projects include: Ambari, Flume, Hadoop, HBase, HDFS, Hive, Mahout, Oozie, Parquet, Pig, Sqoop, Tez, Yarn, Zoopkeeper   
+- Some of the main Big Data/Hadoop projects include: <a href="http://ambari.apache.org/" target="_blank">Ambari</a>, 
+<a href="http://flume.apache.org/" target="_blank">Flume</a>, 
+<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, 
+<a href="http://hbase.apache.org/" target="_blank">HBase</a>, 
+<a href="http://hive.apache.org/" target="_blank">Hive, 
+<a href="http://mahout.apache.org/" target="_blank">Mahout</a>, 
+<a href="http://oozie.apache.org/" target="_blank">Oozie</a>, 
+<a href="http://parquet.apache.org/" target="_blank">Parquet</a>, 
+<a href="http://pig.apache.org/" target="_blank">Pig</a>, 
+<a href="http://spark.apache.org/" target="_blank">Spark</a>,
+<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>, 
+<a href="http://tez.apache.org/" target="_blank">Tez</a>, 
+<a href="" target="_blank">Yarn</a>, 
+<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>   
 
 ### Cassandra
 
@@ -64,6 +77,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Vendors
 - **<a href="http://cloudera.com/" target="_blank">Cloudera</a>**
+- **<a href="http://www.datastax.com/" target="_blank">DataStax</a>**
 - **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
 - **<a href="http://www.ibm.com/big-data/us/en/" target="_blank">IBM Big Data</a>**
 - **<a href="https://www.mapr.com/" target="_blank">MapR</a>**

@@ -4,6 +4,11 @@ Resources for Big Data and Data Science development projects.
 
 I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a>, and committing popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly.
 
+### Apache
+
+- **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>**
+- Some of the main Big Data/Hadoop projects include: Ambari, Flume, Hadoop, HBase, HDFS, Hive, Mahout, Oozie, Parquet, Pig, Sqoop, Tez, Yarn, Zoopkeeper   
+
 ### Cassandra
 
 - **<a href="http://cassandra.apache.org/" target="_blank" title="Apache Cassandra">Cassandra</a>**

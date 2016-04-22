@@ -20,8 +20,9 @@ Coming from a web-development background, I'm also including a number of resourc
 <a href="http://pig.apache.org/" target="_blank">Pig</a>, 
 <a href="http://spark.apache.org/" target="_blank">Spark</a>,
 <a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>, 
+<a href="http://storm.apache.org/" target="_blank">Storm</a>,
 <a href="http://tez.apache.org/" target="_blank">Tez</a>, 
-<a href="" target="_blank">Yarn</a>, 
+<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>, 
 <a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>   
 
 ### Cassandra

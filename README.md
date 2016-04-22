@@ -65,6 +65,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 - **<a href="https://www.python.org/" target="_blank" title="Python">Python</a>**
 - **<a href="https://docs.python.org/2/library/" target="_blank" title="Python 2.7 Library">Python 2.7 Library</a>**
+- **<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>**
+- **<a href="https://pip.pypa.io/en/stable/" target="_blank">PIP</a>** - Package Management System for Python
     
 ### R
 

@@ -24,7 +24,7 @@ I am currently working through a number of classes offered by <a href="https://w
 
 ### Cassandra
 
-- **<a href="http://cassandra.apache.org/" target="_blank" title="Apache Cassandra">Cassandra</a>**
+- **<a href="http://cassandra.apache.org/" target="_blank" title="Apache Cassandra">Apache Cassandra</a>**
 - **<a href="https://academy.datastax.com/" target="_blank" title="DataStax Academy">DataStax Academy</a>**
 - **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
 

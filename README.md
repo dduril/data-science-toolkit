@@ -4,6 +4,8 @@ Resources for Big Data and Data Science development projects.
 
 I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a>, and noting popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly.
 
+Coming from a web-development background, I'm also including a number of resources that can be used in developing web sites for after the data has been processed, parsed, broken down and is ready for presenting to users. For my coursework, much of the output is viewed using tooling or output in a command window. But, ultimately the data will need to be loaded and output in a method suitable for your audience.
+
 ### Apache
 
 - **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>**

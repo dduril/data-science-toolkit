@@ -56,11 +56,8 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 
 - **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>**
 - **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
-- **<a href="https://developers.google.com/maps/" target="_blank" title="Google Maps API">Google Maps API</a>**
 - **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
 - **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
-- **<a href="https://jqueryui.com/" target="_blank" title="jQueryUI">jQueryUI</a>**
-- **<a href="http://jquerymobile.com/" target="_blank" title="">jQuery Mobile</a>**
  
 ### MySQL
 

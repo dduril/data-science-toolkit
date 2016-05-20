@@ -88,7 +88,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.python.org/" target="_blank" title="Python">Python</a>**
 - **<a href="https://docs.python.org/2/library/" target="_blank" title="Python 2.7 Library">Python 2.7 Library</a>**
 - **<a href="https://pip.pypa.io/en/stable/" target="_blank">PIP</a>** - Package Management System for Python
-- **<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>** - Python library for pulling data out of HTML and XML files
+- **<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>** - Web Scraping - i.e. pulling data out of HTML and XML files
 - **<a href="http://www.numpy.org/" target="_blank">NumPy</a>** - For Scientific Computing
 - **<a href="http://pandas.pydata.org/" target="_blank">Pandas</a>** - Data Analysis Library
 - **<a href="https://api.mongodb.com/python/current/" target="_blank">PyMongo</a>** - For working with MongoDB

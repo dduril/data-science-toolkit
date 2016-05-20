@@ -63,6 +63,13 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 - **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
 - **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
  
+### KNIME Analytics Platform
+
+- **<a href="https://www.knime.org/" target="_blank" title="KNIME Analytics Platform">KNIME</a>**
+- **<a href="https://www.knime.org/knime" target="_blank" title="KNIME Analytics Platform">KNIME - Platform</a>**
+- **<a href="https://tech.knime.org/knime" target="_blank" title="KNIME Analytics Platform">KNIME - Getting Started</a>**
+- **<a href="https://www.youtube.com/user/KNIMETV" target="_blank" title="KNIME Analytics Platform">KNIME TV</a>** - YouTube Channel
+
 ### MySQL
 
 MySQL and SQLite are included as they often serve as the data store and they're also handy for quick data import/analysis projects. The software and the tools are free to download.

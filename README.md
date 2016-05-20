@@ -9,11 +9,15 @@ Coming from a web-development background, I'm also including a number of resourc
 ### Apache
 
 - **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>**
-- Some of the main Big Data/Hadoop projects include: <a href="http://ambari.apache.org/" target="_blank">Ambari</a>, 
+- Some of the main Big Data/Hadoop projects include: 
+<a href="http://ambari.apache.org/" target="_blank">Ambari</a>, 
+<a href="https://avro.apache.org/" target="_blank">Avro</a>, 
 <a href="http://flume.apache.org/" target="_blank">Flume</a>, 
 <a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, 
 <a href="http://hbase.apache.org/" target="_blank">HBase</a>, 
-<a href="http://hive.apache.org/" target="_blank">Hive, 
+<a href="http://hive.apache.org/" target="_blank">Hive</a>,
+<a href="http://gethue.com/" target="_blank">Hue</a>, 
+<a href="http://impala.io/" target="_blank">Impala</a>,  
 <a href="http://mahout.apache.org/" target="_blank">Mahout</a>, 
 <a href="http://oozie.apache.org/" target="_blank">Oozie</a>, 
 <a href="http://parquet.apache.org/" target="_blank">Parquet</a>, 

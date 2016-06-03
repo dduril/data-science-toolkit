@@ -35,6 +35,11 @@ Coming from a web-development background, I'm also including a number of resourc
 - **<a href="https://academy.datastax.com/" target="_blank" title="DataStax Academy">DataStax Academy</a>**
 - **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
 
+### Graph Analytics Software
+
+- **<a href="https://gephi.org/" target="_blank">Gephi</a>** - Open Graph Viz Platform
+- **<a href="https://support.google.com/fusiontables/answer/2571232" target="_blank">Google Fusion Tables</a>** - Experimental
+
 ### Hadoop
 
 - **<a href="https://hadoop.apache.org/" target="_blank" title="Apache Hadoop">Apache Hadoop</a>**

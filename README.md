@@ -83,6 +83,10 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="http://dev.mysql.com/" target="_blank" title="MySQL Developer Zone">MySQL Developer Zone</a>**
 - **<a href="https://www.mysql.com/products/workbench/" target="_blank" title="MySQL Workbench">MySQL Workbench</a>**
 
+### Neo4j
+
+- **<a href="http://neo4j.com/" target="_blank">Neo4J Main Site</a>**
+
 ### Perl
 
 - **<a href="https://www.perl.org/" target="_blank" title="Perl">Perl.org: The Perl Programming Language</a>**

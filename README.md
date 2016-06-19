@@ -35,10 +35,12 @@ Coming from a web-development background, I'm also including a number of resourc
 - **<a href="https://academy.datastax.com/" target="_blank" title="DataStax Academy">DataStax Academy</a>**
 - **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
 
-### Graph Analytics Software
+### Graph Analytics Projects/Software
 
 - **<a href="https://gephi.org/" target="_blank">Gephi</a>** - Open Graph Viz Platform
-- **<a href="https://support.google.com/fusiontables/answer/2571232" target="_blank">Google Fusion Tables</a>** - Experimental
+- **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative Graph Processing System
+- **<a href="https://support.google.com/fusiontables/answer/2571232" target="_blank">Google Fusion Tables</a>** - Experimental Project
+- **<a href="" target="_blank">GraphX</a>** - Graph Processing Library
 
 ### Hadoop
 

@@ -9,10 +9,12 @@ Coming from a web-development background, I'm also including a number of resourc
 ### Apache
 
 - **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>**
-- Some of the main Big Data/Hadoop projects include: 
+- Some of the main Big Data/Hadoop Ecosystem projects include: 
 <a href="http://ambari.apache.org/" target="_blank">Ambari</a>, 
 <a href="https://avro.apache.org/" target="_blank">Avro</a>, 
 <a href="http://flume.apache.org/" target="_blank">Flume</a>, 
+<a href="http://giraph.apache.org/" target="_blank">Giraph</a>, 
+<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>, 
 <a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, 
 <a href="http://hbase.apache.org/" target="_blank">HBase</a>, 
 <a href="http://hive.apache.org/" target="_blank">Hive</a>,
@@ -40,7 +42,7 @@ Coming from a web-development background, I'm also including a number of resourc
 - **<a href="https://gephi.org/" target="_blank">Gephi</a>** - Open Graph Viz Platform
 - **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative Graph Processing System
 - **<a href="https://support.google.com/fusiontables/answer/2571232" target="_blank">Google Fusion Tables</a>** - Experimental Project
-- **<a href="" target="_blank">GraphX</a>** - Graph Processing Library
+- **<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>** - Graph Processing Library
 
 ### Hadoop
 

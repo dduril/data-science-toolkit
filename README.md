@@ -43,6 +43,7 @@ Coming from a web-development background, I'm also including a number of resourc
 - **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative Graph Processing System
 - **<a href="https://support.google.com/fusiontables/answer/2571232" target="_blank">Google Fusion Tables</a>** - Experimental Project
 - **<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>** - Graph Processing Library
+- **<a href="https://en.wikipedia.org/wiki/Graph_database" target="_blank">Graph Databases</a>** - Wikipedia
 
 ### Hadoop
 

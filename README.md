@@ -37,7 +37,7 @@ Coming from a web-development background, I'm also including a number of resourc
 - **<a href="https://academy.datastax.com/" target="_blank" title="DataStax Academy">DataStax Academy</a>**
 - **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
 
-### Graph Analytics Projects/Software
+### Graph Databases and Tools
 
 - **<a href="https://gephi.org/" target="_blank">Gephi</a>** - Open Graph Viz Platform
 - **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative Graph Processing System
@@ -53,8 +53,8 @@ Coming from a web-development background, I'm also including a number of resourc
 ### Java
 
 - **<a href="https://www.oracle.com/java/index.html" target="_blank" title="Java">Java</a>**
-- **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Downloads</a>**
-- **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Tutorial</a>**
+- **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Java - Downloads</a>**
+- **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Java - Tutorial</a>**
 - **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network (OTN)</a>**
 
 ### Java IDEs

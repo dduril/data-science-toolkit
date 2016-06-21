@@ -121,7 +121,9 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
 - **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**
 
-### Vendors
+### Major Players
+
+- **<a href="https://aws.amazon.com/big-data/" target="_blank">AWS</a>**
 - **<a href="http://cloudera.com/" target="_blank">Cloudera</a>**
 - **<a href="http://www.datastax.com/" target="_blank">DataStax</a>**
 - **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
@@ -129,6 +131,10 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.mapr.com/" target="_blank">MapR</a>**
 - **<a href="https://www.palantir.com/" target="_blank">Palantir</a>**
 - **<a href="http://www.splunk.com/" target="_blank">Splunk</a>**
+
+### Additional Reading
+
+- **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia
 
 ### VM Downloads
 - **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**

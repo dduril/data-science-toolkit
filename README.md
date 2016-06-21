@@ -56,7 +56,8 @@ Coming from a web-development background, I'm also including a number of resourc
 - **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Java - Downloads</a>**
 - **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Java - Tutorial</a>**
 - **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network (OTN)</a>**
-- **<a href="http://www.scala-lang.org/" target="_blank">Scala</a>**
+- **<a href="http://www.scala-lang.org/" target="_blank">Scala</a>** 
+- **<a href="https://en.wikipedia.org/wiki/Scala_(programming_language)" target="_blank">Scala - Wikipedia Article</a>**
 
 ### Java IDEs
 

@@ -2,9 +2,9 @@
 
 Resources for Big Data and Data Science development projects. 
 
-I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a>, and noting popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly.
+I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - **<a href="https://www.coursera.org/specializations/bigdata">Big Data</a>**, and noting popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
 
-Coming from a web-development background, I'm also including a number of resources that can be used in developing web sites for after the data has been processed, parsed, broken down and is ready for presenting to users. For my coursework, much of the output is viewed using tooling or output in a command window. But, ultimately the data will need to be loaded and output in a method suitable for your audience.
+I'm also including a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. Other output is often piped directly to a terminal or command window. 
 
 ### Apache
 

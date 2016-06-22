@@ -2,7 +2,7 @@
 
 Resources for Big Data and Data Science development projects. 
 
-I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - **<a href="https://www.coursera.org/specializations/bigdata">Big Data</a>**, and noting popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
+I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - <a href="https://www.coursera.org/specializations/bigdata"><strong>Big Data</strong></a>, and noting popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
 
 I'm also including a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. Other output is often piped directly to a terminal or command window. 
 
@@ -61,6 +61,7 @@ I'm also including a number of resources for developing web applications for aft
 
 ### Java IDEs
 
+- **<a href="http://www.bluej.org/" target="_blank">BlueJ</a>** - Primarily for Beginners/Educational
 - **<a href="https://eclipse.org/" target="_blank" title="Eclipse">Eclipse</a>**
 - **<a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ">IntelliJ</a>**
 - **<a href="http://www.oracle.com/technetwork/developer-tools/jdev/overview/index.html" target="_blank" title="JDeveloper">JDeveloper</a>**

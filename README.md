@@ -94,7 +94,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 ### Neo4j
 
 - **<a href="http://neo4j.com/" target="_blank">Neo4J</a>** - Main Site
-- **<a href="http://neo4j.com/developer/cypher-query-language/" target="_blank">Neo 4j Cypher</a>** - Neo4j's query language
+- **<a href="https://neo4j.com/developer/get-started/" target="_blank">Neo4j - Getting Started</a>**
+- **<a href="https://neo4j.com/developer/cypher/" target="_blank">Cypher</a>** - Neo4j's query language
 - **<a href="https://en.wikipedia.org/wiki/Neo4j" target="_blank">Neo4j - Wikipedia</a>**
 - **<a href="https://en.wikipedia.org/wiki/Graph_database" target="_blank">Graph Databases - Wikipedia</a>**
 

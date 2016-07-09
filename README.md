@@ -8,28 +8,30 @@ I'm also including a number of resources for developing web applications for aft
 
 ### Apache
 
-- **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>**
-- Some of the main Big Data/Hadoop Ecosystem projects include: 
-<a href="http://ambari.apache.org/" target="_blank">Ambari</a>, 
-<a href="https://avro.apache.org/" target="_blank">Avro</a>, 
-<a href="http://flume.apache.org/" target="_blank">Flume</a>, 
-<a href="http://giraph.apache.org/" target="_blank">Giraph</a>, 
-<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>, 
-<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, 
-<a href="http://hbase.apache.org/" target="_blank">HBase</a>, 
-<a href="http://hive.apache.org/" target="_blank">Hive</a>,
-<a href="http://gethue.com/" target="_blank">Hue</a>, 
-<a href="http://impala.io/" target="_blank">Impala</a>,  
-<a href="http://mahout.apache.org/" target="_blank">Mahout</a>, 
-<a href="http://oozie.apache.org/" target="_blank">Oozie</a>, 
-<a href="http://parquet.apache.org/" target="_blank">Parquet</a>, 
-<a href="http://pig.apache.org/" target="_blank">Pig</a>, 
-<a href="http://spark.apache.org/" target="_blank">Spark</a>,
-<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>, 
-<a href="http://storm.apache.org/" target="_blank">Storm</a>,
-<a href="http://tez.apache.org/" target="_blank">Tez</a>, 
-<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>, 
-<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>   
+- **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>** 
+- **<a href="http://ambari.apache.org/" target="_blank">Ambari</a>**
+- **<a href="https://avro.apache.org/" target="_blank">Avro</a>**
+- **<a href="http://cassandra.apache.org/" target="_blank">Cassandra</a>**
+- **<a href="https://drill.apache.org/" target="_blank">Drill</a>** - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
+- **<a href="http://flume.apache.org/" target="_blank">Flume</a>**
+- **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** 
+- **<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>** 
+- **<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>**
+- **<a href="http://hbase.apache.org/" target="_blank">HBase</a>**
+- **<a href="http://hive.apache.org/" target="_blank">Hive</a>**
+- **<a href="http://gethue.com/" target="_blank">Hue</a>**
+- **<a href="http://impala.io/" target="_blank">Impala</a>** 
+- **<a href="http://kafka.apache.org/" target="_blank">Kafka</a>**  
+- **<a href="http://mahout.apache.org/" target="_blank">Mahout</a>** 
+- **<a href="http://oozie.apache.org/" target="_blank">Oozie</a>**
+- **<a href="http://parquet.apache.org/" target="_blank">Parquet</a>** 
+- **<a href="http://pig.apache.org/" target="_blank">Pig</a>** 
+- **<a href="http://spark.apache.org/" target="_blank">Spark</a>**
+- **<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>**
+- **<a href="http://storm.apache.org/" target="_blank">Storm</a>**
+- **<a href="http://tez.apache.org/" target="_blank">Tez</a>**
+- **<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>**
+- **<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>**   
 
 ### Cassandra
 

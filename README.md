@@ -26,11 +26,11 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="http://oozie.apache.org/" target="_blank">Oozie</a>**
 - **<a href="http://parquet.apache.org/" target="_blank">Parquet</a>** 
 - **<a href="http://pig.apache.org/" target="_blank">Pig</a>** - High-level platform for creating programs that run on Apache Hadoop
-- **<a href="http://spark.apache.org/" target="_blank">Spark</a>**
+- **<a href="http://spark.apache.org/" target="_blank">Spark</a>** - Open-source engine developed specifically for handling large-scale data processing and analytics.
 - **<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>**
 - **<a href="http://storm.apache.org/" target="_blank">Storm</a>**
 - **<a href="http://tez.apache.org/" target="_blank">Tez</a>**
-- **<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>**
+- **<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>** - (Yet Another Resource Negotiator) is a cluster management technology
 - **<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>** - Configuration service, synchronization service, and naming registry for large distributed systems
 
 ### Cassandra

@@ -1,10 +1,10 @@
 # Big Data and Data Science Toolkit
 
-Resources for Big Data and Data Science development projects. 
+Resources for Big Data and Data Analytics Projects. 
 
-I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - <a href="https://www.coursera.org/specializations/bigdata"><strong>Big Data</strong></a>, and noting popular and useful online resources and tools in this repo. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
+I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - <a href="https://www.coursera.org/specializations/bigdata"><strong>Big Data</strong></a>, and noting popular online resources and tools in this repository. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
 
-I'm also including a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. Other output is often piped directly to a terminal or command window. 
+I'm also including a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. Other output is often piped directly to a terminal or command window. I've also experimented with the Google Analytics tools and d3.js.
 
 ### Apache
 

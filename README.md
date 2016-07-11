@@ -16,16 +16,16 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="http://flume.apache.org/" target="_blank">Flume</a>** - Service for streaming logs into Hadoop
 - **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** 
 - **<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>** 
-- **<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>**
-- **<a href="http://hbase.apache.org/" target="_blank">HBase</a>**
-- **<a href="http://hive.apache.org/" target="_blank">Hive</a>**
-- **<a href="http://gethue.com/" target="_blank">Hue</a>**
+- **<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>** - For distributed storage and distributed processing of very large data sets on computer clusters built from commodity hardware
+- **<a href="http://hbase.apache.org/" target="_blank">HBase</a>** - Column-oriented key/value data store built to run on top of the Hadoop Distributed File System (HDFS)
+- **<a href="http://hive.apache.org/" target="_blank">Hive</a>** - Data summarization, query, and analysis.
+- **<a href="http://gethue.com/" target="_blank">Hue</a>** - Web interface for analyzing data with Apache Hadoop
 - **<a href="http://impala.io/" target="_blank">Impala</a>** 
 - **<a href="http://kafka.apache.org/" target="_blank">Kafka</a>**  
 - **<a href="http://mahout.apache.org/" target="_blank">Mahout</a>** 
 - **<a href="http://oozie.apache.org/" target="_blank">Oozie</a>**
 - **<a href="http://parquet.apache.org/" target="_blank">Parquet</a>** 
-- **<a href="http://pig.apache.org/" target="_blank">Pig</a>** 
+- **<a href="http://pig.apache.org/" target="_blank">Pig</a>** - High-level platform for creating programs that run on Apache Hadoop
 - **<a href="http://spark.apache.org/" target="_blank">Spark</a>**
 - **<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>**
 - **<a href="http://storm.apache.org/" target="_blank">Storm</a>**

@@ -41,7 +41,7 @@ I'm also including a number of resources for developing web applications for aft
 
 ### Data Visualization
 
-- **<a href="http://www.tableau.com/">Tableau</a>**
+- **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
 
 ### Graph Databases and Tools
 
@@ -73,7 +73,7 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="http://www.oracle.com/technetwork/developer-tools/jdev/overview/index.html" target="_blank" title="JDeveloper">JDeveloper</a>**
 - **<a href="https://netbeans.org/" target="_blank" title="NetBeans">NetBeans</a>**, **<a href="https://netbeans.org/downloads/" target="_blank" title="NetBeans Downloads">Downloads</a>**, **<a href="https://netbeans.org/kb/index.html" target="_blank" title="NetBeans Documentation">Documentation</a>** 
  
-### JavaScript Charts/Visualizations
+### JavaScript Charts/Maps/Visualizations
 
 There are many JavaScript libraries and frameworks that can help in presenting and visualizing your data sets when producing web pages and documentation. Included here are some of the more popular ones to get started.
 
@@ -81,6 +81,7 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 - **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
 - **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
 - **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
+- **<a href="http://leafletjs.com/" target="_blank">Leaflet</a>**
  
 ### KNIME Analytics Platform
 
@@ -137,6 +138,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://aws.amazon.com/big-data/" target="_blank">AWS</a>**
 - **<a href="http://cloudera.com/" target="_blank">Cloudera</a>**
 - **<a href="http://www.datastax.com/" target="_blank">DataStax</a>**
+- **<a href="https://www.elastic.co/" target="_blank">Elastic</a>**
 - **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
 - **<a href="http://www.ibm.com/big-data/us/en/" target="_blank">IBM Big Data</a>**
 - **<a href="https://www.mapr.com/" target="_blank">MapR</a>**

@@ -139,6 +139,10 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="http://cloudera.com/" target="_blank">Cloudera</a>**
 - **<a href="http://www.datastax.com/" target="_blank">DataStax</a>**
 - **<a href="https://www.elastic.co/" target="_blank">Elastic</a>**
+	- **<a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>**
+	- **<a href="https://www.elastic.co/products/logstash" target="_blank">Logstash</a>**
+	- **<a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>**
+	- **<a href="https://www.elastic.co/products/beats" target="_blank">Beats</a>** 
 - **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
 - **<a href="http://www.ibm.com/big-data/us/en/" target="_blank">IBM Big Data</a>**
 - **<a href="https://www.mapr.com/" target="_blank">MapR</a>**

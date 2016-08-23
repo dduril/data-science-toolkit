@@ -39,6 +39,10 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="https://academy.datastax.com/" target="_blank" title="DataStax Academy">DataStax Academy</a>**
 - **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
 
+### Data Visualization
+
+- **<a href="http://www.tableau.com/">Tableau</a>**
+
 ### Graph Databases and Tools
 
 - **<a href="https://gephi.org/" target="_blank">Gephi</a>** - Open Graph Viz Platform
@@ -127,8 +131,9 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
 - **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**
 
-### Major Players
+### Software and Additional Reading
 
+- **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia
 - **<a href="https://aws.amazon.com/big-data/" target="_blank">AWS</a>**
 - **<a href="http://cloudera.com/" target="_blank">Cloudera</a>**
 - **<a href="http://www.datastax.com/" target="_blank">DataStax</a>**
@@ -138,9 +143,6 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.palantir.com/" target="_blank">Palantir</a>**
 - **<a href="http://www.splunk.com/" target="_blank">Splunk</a>**
 
-### Additional Reading
-
-- **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia
 
 ### VM Downloads
 - **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**

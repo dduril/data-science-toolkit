@@ -158,7 +158,6 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 ### Other Stuff (Not Sorted)
 
 - **<a href="https://www.continuum.io/" target="_blank" title="Continuum Analytics">Continuum Analytics</a>**
-- **<a href="https://www.enthought.com/" target="_blank" title="Enthought">Enthought</a>**
 - **<a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">Google Cloud Platform</a>**
 - **<a href="http://jupyter.org/" target="_blank" title="Jupyter">Jupyter</a>**
 - **<a href="https://rapidminer.com/" target="_blank" title="RapidMiner">RapidMiner</a>**

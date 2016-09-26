@@ -125,6 +125,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 - **<a href="https://www.r-project.org/" target="_blank" title="R">The R Project for Statistical Computing</a>**
 - **<a href="https://www.rstudio.com/" target="_blank" title="R">RStudio</a>** - Integrated development environment for R programming
+- **<a href="https://cran.r-project.org/" target="_blank" title="CRAN">CRAN</a>** - The Comprehensive R Archive Network
 - **<a href="http://rcharts.io/" target="_blank" title="R">rCharts</a>** - R package to create, customize and publish interactive JavaScript visualizations from R
 - **<a href="http://shiny.rstudio.com/" target="_blank" title="R">Shiny</a>** - Web application framework for R
 
@@ -154,7 +155,13 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
 - **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
 
+### Other Stuff I've Found (Not Sorted)
 
+- **<a href="" target="_blank" title=""></a>**
+- **<a href="" target="_blank" title=""></a>**
+- **<a href="" target="_blank" title=""></a>**
+- **<a href="" target="_blank" title=""></a>**
+- **<a href="" target="_blank" title=""></a>**
 
 
 

@@ -120,6 +120,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="http://www.numpy.org/" target="_blank">NumPy</a>** - For Scientific Computing
 - **<a href="http://pandas.pydata.org/" target="_blank">Pandas</a>** - Data Analysis Library
 - **<a href="https://api.mongodb.com/python/current/" target="_blank">PyMongo</a>** - For working with MongoDB
+- **Recommended Books**
+	- Learning Python (O'Reilly)
+	- Fluent Python (O'Reilly)
+	- Python Cookbook (O'Reilly)
+	- Data Science from Scratch (O'Reilly)
+	- Web Scraping with Python (O'Reilly)
     
 ### R
 

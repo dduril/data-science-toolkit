@@ -134,6 +134,9 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://cran.r-project.org/" target="_blank" title="CRAN">CRAN</a>** - The Comprehensive R Archive Network
 - **<a href="http://rcharts.io/" target="_blank" title="R">rCharts</a>** - R package to create, customize and publish interactive JavaScript visualizations from R
 - **<a href="http://shiny.rstudio.com/" target="_blank" title="R">Shiny</a>** - Web application framework for R
+- **Recommended Books**
+	- Learning R (O'Reilly)
+	- R Cookbook (O'Reilly)
 
 ### SQLite
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**

@@ -156,6 +156,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
 - **<a href="http://www.ibm.com/big-data/us/en/" target="_blank">IBM Big Data</a>**
 - **<a href="https://www.mapr.com/" target="_blank">MapR</a>**
+- **<a href="http://radar.oreilly.com/" target="_blank">O'Reilly Radar</a>**
 - **<a href="https://www.palantir.com/" target="_blank">Palantir</a>**
 - **<a href="http://www.splunk.com/" target="_blank">Splunk</a>**
 

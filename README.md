@@ -41,6 +41,10 @@ I'm also including a number of resources for developing web applications for aft
 
 ### Data Visualization
 
+- **<a href="https://www.domo.com/" target="_blank">Domo</a>**
+- **<a href="https://looker.com/" target="_blank">Looker</a>**
+- **<a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a>**
+- **<a href="http://www.qlik.com/us/" target="_blank">Qlik</a>**
 - **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
 
 ### Graph Databases and Tools

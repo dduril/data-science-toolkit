@@ -116,6 +116,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 - **<a href="https://www.perl.org/" target="_blank" title="Perl">Perl.org: The Perl Programming Language</a>**
 - **<a href="http://www.activestate.com/activeperl" target="_blank" title="ActivePerl">ActivePerl (ActiveState)</a>**
+- **Recommended Books (O'Reilly Publishers)**
+	- Learning Perl
+	- Programming Perl
+	- Intermediate Perl
+	- Perl Cookbook
+	- Perl Best Practices
 
 ### Python
 
@@ -126,12 +132,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="http://www.numpy.org/" target="_blank">NumPy</a>** - For Scientific Computing
 - **<a href="http://pandas.pydata.org/" target="_blank">Pandas</a>** - Data Analysis Library
 - **<a href="https://api.mongodb.com/python/current/" target="_blank">PyMongo</a>** - For working with MongoDB
-- **Recommended Books**
-	- Learning Python (O'Reilly)
-	- Fluent Python (O'Reilly)
-	- Python Cookbook (O'Reilly)
-	- Data Science from Scratch (O'Reilly)
-	- Web Scraping with Python (O'Reilly)
+- **Recommended Books (O'Reilly Publishers)**
+	- Learning Python
+	- Fluent Python
+	- Python Cookbook
+	- Data Science from Scratch
+	- Web Scraping with Python
     
 ### R
 
@@ -140,9 +146,9 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://cran.r-project.org/" target="_blank" title="CRAN">CRAN</a>** - The Comprehensive R Archive Network
 - **<a href="http://rcharts.io/" target="_blank" title="R">rCharts</a>** - R package to create, customize and publish interactive JavaScript visualizations from R
 - **<a href="http://shiny.rstudio.com/" target="_blank" title="R">Shiny</a>** - Web application framework for R
-- **Recommended Books**
-	- Learning R (O'Reilly)
-	- R Cookbook (O'Reilly)
+- **Recommended Books (O'Reilly Publishers)**
+	- Learning R
+	- R Cookbook
 
 ### SQLite
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**

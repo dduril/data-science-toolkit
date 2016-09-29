@@ -68,6 +68,8 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network (OTN)</a>**
 - **<a href="http://www.scala-lang.org/" target="_blank">Scala</a>** 
 - **<a href="https://en.wikipedia.org/wiki/Scala_(programming_language)" target="_blank">Scala - Wikipedia Article</a>**
+- **Recommended Books**
+	- Java - A Beginner's Guide (Oracle)
 
 ### Java IDEs
 

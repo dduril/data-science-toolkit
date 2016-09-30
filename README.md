@@ -46,6 +46,9 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a>**
 - **<a href="http://www.qlik.com/us/" target="_blank">Qlik</a>**
 - **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
+- **Additional Resources**
+	- **<a href="http://selection.datavisualization.ch/" target="_blank">Datavisualization.ch Selected Tools</a>**
+	- **<a href="http://www.visualisingdata.com/resources/" target="_blank">Visualising Data</a>**
 
 ### Graph Databases and Tools
 

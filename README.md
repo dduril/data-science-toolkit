@@ -90,6 +90,8 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 	- **<a href="http://www.chartjs.org/docs/" target="_blank" title="Chart.js">Documentation</a>**
 - **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>**
 - **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
+	- **<a href="https://developers.google.com/chart/interactive/docs/" target="_blank">Documentation</a>**
+	- **<a href="https://developers.google.com/chart/interactive/docs/quick_start" target="_blank">Quick Start</a>**
 - **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
 - **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
 - **<a href="http://leafletjs.com/" target="_blank">Leaflet</a>**

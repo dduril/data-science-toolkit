@@ -152,10 +152,10 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 - **<a href="https://www.r-project.org/" target="_blank" title="R">The R Project for Statistical Computing</a>**
 - **<a href="https://www.rstudio.com/" target="_blank" title="R">RStudio</a>** - Integrated development environment for R programming
-- **<a href="https://google.github.io/styleguide/Rguide.xml" target="_blank" title="Google's R Style Guide">Google's R Style Guide</a>**
 - **<a href="https://cran.r-project.org/" target="_blank" title="CRAN">CRAN</a>** - The Comprehensive R Archive Network
 - **<a href="http://rcharts.io/" target="_blank" title="R">rCharts</a>** - R package to create, customize and publish interactive JavaScript visualizations from R
 - **<a href="http://shiny.rstudio.com/" target="_blank" title="R">Shiny</a>** - Web application framework for R
+- **<a href="https://google.github.io/styleguide/Rguide.xml" target="_blank" title="Google's R Style Guide">Google's R Style Guide</a>**
 - **Recommended Books (O'Reilly Publishers)**
 	- Learning R
 	- R Cookbook

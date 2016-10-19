@@ -39,6 +39,19 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="https://academy.datastax.com/" target="_blank" title="DataStax Academy">DataStax Academy</a>**
 - **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
 
+### Data Virtualization
+
+- **<a href="https://en.wikipedia.org/wiki/Data_virtualization" target="_blank">Data virtualization</a>** (Wikipedia article)
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+
 ### Data Visualization
 
 - **<a href="https://www.domo.com/" target="_blank">Domo</a>**

@@ -42,10 +42,10 @@ I'm also including a number of resources for developing web applications for aft
 ### Data Virtualization
 
 - **<a href="https://en.wikipedia.org/wiki/Data_virtualization" target="_blank">Data virtualization</a>** (Wikipedia article)
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
+- **<a href="http://www.datavirtualizationblog.com/" target="_blank">Data virtualization blog</a>**
+- **<a href="http://www.compositesw.com/data-virtualization/" target="_blank">Cisco - Data Virtualization</a>** (formerly Composite Software)
+- **<a href="http://www.compositesw.com/products-services/" target="_blank">Cisco - Data Virtualization Platform</a>**
+- **<a href="https://www.delphix.com/" target="_blank">Delphix</a>**
 - **<a href="" target="_blank"></a>**
 - **<a href="" target="_blank"></a>**
 - **<a href="" target="_blank"></a>**

@@ -175,6 +175,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
 - **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**
 
+---
+
 ### Software and Additional Reading
 
 - **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia
@@ -197,6 +199,18 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 ### VM Downloads
 - **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
 - **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
+
+### Publicly Available Data Sets
+
+- **<a href="https://www.bls.gov/" target="_blank">Bureau of Labor Statistics</a>** (BLS)
+- **<a href="https://www.bts.gov/" target="_blank">Bureau of Transportation Statistics</a>** (BTS)
+- **<a href="****" target="_blank">Census.gov</a>** (USCB)
+- **<a href="https://www.census.gov/data/data-tools/censtats.html" target="_blank">Censtats</a>**
+- **<a href="https://www.data.gov/" target="_blank">Data.gov</a>**
+- **<a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">FactFinder</a>**
+- **<a href="https://www.google.com/publicdata/directory" target="_blank">Google Public Data</a>**
+- **<a href="https://www.quandl.com/" target="_blank">Quandl</a>**
+- **<a href="https://www.uspto.gov/" target="_blank">United States Patent and Trademark Office</a>** (USTPO)
 
 ### Other Stuff (Not Sorted)
 

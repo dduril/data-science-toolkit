@@ -177,6 +177,13 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ---
 
+### Blogs and Newletters
+
+- **<a href="https://www.datascienceweekly.org/" target="_blank">Data Science Weekly</a>**
+- **<a href="http://www.mastersindatascience.org/careers/" target="_blank">Master's in Data Science</a>**
+- **<a href="https://www.r-bloggers.com/" target="_blank">R-bloggers</a>**
+- **<a href="http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html" target="_blank">Udacity Data Science Resources</a>**
+
 ### Software and Additional Reading
 
 - **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia

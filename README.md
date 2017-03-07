@@ -57,11 +57,11 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a>**
 - **<a href="http://www.qlik.com/us/" target="_blank">Qlik</a>**
 - **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
-	- **<a href=""></a>**
-	- **<a href=""></a>**
-	- **<a href=""></a>**
-	- **<a href=""></a>**
-	- **<a href=""></a>**
+	- **<a href="https://www.tableau.com/support/help">Tableau Help</a>**
+	- **<a href="https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm">Tableau Desktop</a>**
+	- **<a href="https://onlinehelp.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm">Tableau JavaScript API</a>**
+		- **<a href="https://github.com/tableau/js-api-samples">Github repo </a>**
+	- **<a href="https://community.tableau.com/community/developers">Tableau Developer Community</a>**
 - **Additional Resources**
 	- **<a href="http://selection.datavisualization.ch/" target="_blank">Datavisualization.ch Selected Tools</a>**
 	- **<a href="http://www.visualisingdata.com/resources/" target="_blank">Visualising Data</a>**
@@ -174,7 +174,9 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://google.github.io/styleguide/Rguide.xml" target="_blank" title="Google's R Style Guide">Google's R Style Guide</a>**
 - **Recommended Books (O'Reilly Publishers)**
 	- Learning R
+	- R for Data Science
 	- R Cookbook
+	- R Graphics Cookbook
 
 ### SQLite
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**

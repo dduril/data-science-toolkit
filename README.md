@@ -57,6 +57,11 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a>**
 - **<a href="http://www.qlik.com/us/" target="_blank">Qlik</a>**
 - **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
+	- **<a href=""></a>**
+	- **<a href=""></a>**
+	- **<a href=""></a>**
+	- **<a href=""></a>**
+	- **<a href=""></a>**
 - **Additional Resources**
 	- **<a href="http://selection.datavisualization.ch/" target="_blank">Datavisualization.ch Selected Tools</a>**
 	- **<a href="http://www.visualisingdata.com/resources/" target="_blank">Visualising Data</a>**
@@ -184,6 +189,11 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.r-bloggers.com/" target="_blank">R-bloggers</a>**
 - **<a href="http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html" target="_blank">Udacity Data Science Resources</a>**
 
+### Online Training
+
+- **<a href="https://www.datacamp.com/" target="_blank">DataCamp</a>**
+- **<a href="https://www.dataquest.io/home" target="_blank">Dataquest</a>**
+
 ### Software and Additional Reading
 
 - **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia
@@ -201,7 +211,6 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="http://radar.oreilly.com/" target="_blank">O'Reilly Radar</a>**
 - **<a href="https://www.palantir.com/" target="_blank">Palantir</a>**
 - **<a href="http://www.splunk.com/" target="_blank">Splunk</a>**
-
 
 ### VM Downloads
 - **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**

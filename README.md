@@ -58,7 +58,10 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="http://www.qlik.com/us/" target="_blank">Qlik</a>**
 - **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
 	- **<a href="https://www.tableau.com/support/help">Tableau Help</a>**
-	- **<a href="https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm">Tableau Desktop</a>**
+		1. **<a href="https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm">Welcome to Tableau Desktop</a>**
+		2. **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html">Get Started with Tableau Desktop</a>**
+		3. **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html">Learning Library</a>** 
+		4. **<a href="https://www.tableau.com/learn/training">Free Training Videos</a>** 
 	- **<a href="https://onlinehelp.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm">Tableau JavaScript API</a>**
 		- **<a href="https://github.com/tableau/js-api-samples">Github repo </a>**
 	- **<a href="https://community.tableau.com/community/developers">Tableau Developer Community</a>**

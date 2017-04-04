@@ -2,34 +2,35 @@
 
 Resources for Big Data and Data Analytics Projects. 
 
-I am currently working through a number of classes offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - <a href="https://www.coursera.org/specializations/bigdata"><strong>Big Data</strong></a>, and noting popular online resources and tools in this repository. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
+I have completed a number of courses offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - <a href="https://www.coursera.org/specializations/bigdata"><strong>Big Data</strong></a>, and tracking popular online resources and tools in this repository. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
 
-I'm also including a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. Other output is often piped directly to a terminal or command window. I've also experimented with the Google Analytics tools and d3.js.
+Also included are a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. In other cases, output is directed to a terminal window. I've also experimented with Google Analytics and d3.js.
 
 ### Apache
 
 - **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>** 
-- **<a href="http://ambari.apache.org/" target="_blank">Ambari</a>**
-- **<a href="https://avro.apache.org/" target="_blank">Avro</a>**
-- **<a href="http://cassandra.apache.org/" target="_blank">Cassandra</a>**
+- **<a href="http://ambari.apache.org/" target="_blank">Ambari</a>** - Web-based tool for provisioning, managing, and monitoring Apache Hadoop clusters
+- **<a href="https://avro.apache.org/" target="_blank">Avro</a>** - Serialization format so that data can be exchanged between programs written in difference languages
+- **<a href="http://cassandra.apache.org/" target="_blank">Cassandra</a>** - Distributed, scalable, high available NoSQL database
 - **<a href="https://drill.apache.org/" target="_blank">Drill</a>** - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
-- **<a href="http://flume.apache.org/" target="_blank">Flume</a>** - Service for streaming logs into Hadoop
-- **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** 
-- **<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>** 
+- **[Falcon](https://falcon.apache.org/)** - Automates data movement and processing for ingest, pipelines, and replication operations
+- **<a href="http://flume.apache.org/" target="_blank">Flume</a>** - Service for collecting, aggregating and moving dynamic serial data
+- **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative graph processing system built for high scalability
 - **<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>** - For distributed storage and distributed processing of very large data sets on computer clusters built from commodity hardware
 - **<a href="http://hbase.apache.org/" target="_blank">HBase</a>** - Column-oriented key/value data store built to run on top of the Hadoop Distributed File System (HDFS)
-- **<a href="http://hive.apache.org/" target="_blank">Hive</a>** - Data summarization, query, and analysis.
+- **<a href="http://hive.apache.org/" target="_blank">Hive</a>** - Data warehouse infrastructure, data summarization, query, and analysis.
 - **<a href="http://gethue.com/" target="_blank">Hue</a>** - Web interface for analyzing data with Apache Hadoop
-- **<a href="http://impala.io/" target="_blank">Impala</a>** 
-- **<a href="http://kafka.apache.org/" target="_blank">Kafka</a>**  
-- **<a href="http://mahout.apache.org/" target="_blank">Mahout</a>** 
-- **<a href="http://oozie.apache.org/" target="_blank">Oozie</a>**
-- **<a href="http://parquet.apache.org/" target="_blank">Parquet</a>** 
+- **<a href="http://impala.io/" target="_blank">Impala</a>** - Open source, native analytic database
+for Apache Hadoop
+- **<a href="http://kafka.apache.org/" target="_blank">Kafka</a>** - Used for building real-time data pipelines and streaming apps
+- **<a href="http://mahout.apache.org/" target="_blank">Mahout</a>** - Scalable machine-learning library
+- **<a href="http://oozie.apache.org/" target="_blank">Oozie</a>** - Workflow/coordination system to manage mutlistage Hadoop jobs
+- **<a href="http://parquet.apache.org/" target="_blank">Parquet</a>** - Columnar storage format for Hadoop ecosystem
 - **<a href="http://pig.apache.org/" target="_blank">Pig</a>** - High-level platform for creating programs that run on Apache Hadoop
 - **<a href="http://spark.apache.org/" target="_blank">Spark</a>** - Open-source engine developed specifically for handling large-scale data processing and analytics.
-- **<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>**
-- **<a href="http://storm.apache.org/" target="_blank">Storm</a>**
-- **<a href="http://tez.apache.org/" target="_blank">Tez</a>**
+- **<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>** - tool for transerring bulk data between HDFS and relational databases
+- **<a href="http://storm.apache.org/" target="_blank">Storm</a>** - Distributed realtime computation system
+- **<a href="http://tez.apache.org/" target="_blank">Tez</a>** - Application framework which allows for a complex directed-acyclic-graph of tasks for processing data
 - **<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>** - (Yet Another Resource Negotiator) is a cluster management technology
 - **<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>** - Configuration service, synchronization service, and naming registry for large distributed systems
 
@@ -83,6 +84,8 @@ I'm also including a number of resources for developing web applications for aft
 - **<a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html" target="_blank">HDFS Command Line</a>**
 - **Recommended Books**
 	- Hadoop: The Definitive Guide (O'Reilly)
+	- Hadoop2 Quick-Start Guide (Addison-Wesley)
+	- Practical Data Science with Hadoop and Spark (Addison-Wesley)
 
 ### Java
 
@@ -123,6 +126,10 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 - **<a href="https://www.knime.org/knime" target="_blank" title="KNIME Analytics Platform">KNIME - Platform</a>**
 - **<a href="https://tech.knime.org/knime" target="_blank" title="KNIME Analytics Platform">KNIME - Getting Started</a>**
 - **<a href="https://www.youtube.com/user/KNIMETV" target="_blank" title="KNIME Analytics Platform">KNIME TV</a>** - YouTube Channel
+
+### MongoDB
+
+- **[MongoDB](https://www.mongodb.com/)**
 
 ### MySQL
 
@@ -229,16 +236,47 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.data.gov/" target="_blank">Data.gov</a>**
 - **<a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">FactFinder</a>**
 - **<a href="https://www.google.com/publicdata/directory" target="_blank">Google Public Data</a>**
+- **[Kaggle](https://www.kaggle.com/)**
 - **<a href="https://www.quandl.com/" target="_blank">Quandl</a>**
 - **<a href="https://www.uspto.gov/" target="_blank">United States Patent and Trademark Office</a>** (USTPO)
 
-### Other Stuff (Not Sorted)
+### Additional (Unsorted)
 
 - **<a href="https://www.continuum.io/" target="_blank" title="Continuum Analytics">Continuum Analytics</a>**
 - **<a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">Google Cloud Platform</a>**
 - **<a href="http://jupyter.org/" target="_blank" title="Jupyter">Jupyter</a>**
 - **<a href="https://rapidminer.com/" target="_blank" title="RapidMiner">RapidMiner</a>**
 
+---
 
+### Recommended Texts (Summarized)
 
+**Hadoop**
 
+- Hadoop: The Definitive Guide _(O'Reilly)_
+- Hadoop2 Quick-Start Guide _(Addison-Wesley)_
+- Java - A Beginner's Guide _(Oracle)_
+- Practical Data Science with Hadoop and Spark _(Addison-Wesley)_
+
+**Perl**
+
+- Learning Perl _(O'Reilly)_
+- Programming Perl _(O'Reilly)_
+- Intermediate Perl _(O'Reilly)_
+- Perl Cookbook _(O'Reilly)_
+- Perl Best Practices _(O'Reilly)_
+
+**Python**
+
+- Learning Python _(O'Reilly)_
+- Fluent Python _(O'Reilly)_
+- Python Cookbook _(O'Reilly)_
+- Data Science from Scratch _(O'Reilly)_
+- Web Scraping with Python _(O'Reilly)_
+
+**R**
+
+- Learning R _(O'Reilly)_
+- R for Data Science _(O'Reilly)_
+- R Cookbook _(O'Reilly)_
+- R Graphics Cookbook _(O'Reilly)_

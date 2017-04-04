@@ -59,10 +59,10 @@ for Apache Hadoop
 - **<a href="http://www.qlik.com/us/" target="_blank">Qlik</a>**
 - **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
 	- **<a href="https://www.tableau.com/support/help">Tableau Help</a>**
-		1. **<a href="https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm">Welcome to Tableau Desktop</a>**
-		2. **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html">Get Started with Tableau Desktop</a>**
-		3. **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html">Learning Library</a>** 
-		4. **<a href="https://www.tableau.com/learn/training">Free Training Videos</a>** 
+		- **<a href="https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm">Welcome to Tableau Desktop</a>**
+		- **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html">Get Started with Tableau Desktop</a>**
+		- **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html">Learning Library</a>** 
+		- **<a href="https://www.tableau.com/learn/training">Free Training Videos</a>** 
 	- **<a href="https://onlinehelp.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm">Tableau JavaScript API</a>**
 		- **<a href="https://github.com/tableau/js-api-samples">Github repo </a>**
 	- **<a href="https://community.tableau.com/community/developers">Tableau Developer Community</a>**
@@ -246,7 +246,13 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">Google Cloud Platform</a>**
 - **<a href="http://jupyter.org/" target="_blank" title="Jupyter">Jupyter</a>**
 - **<a href="https://rapidminer.com/" target="_blank" title="RapidMiner">RapidMiner</a>**
-
+- **What is Hadoop?**
+	- **<a href="https://www.cloudera.com/products/open-source/apache-hadoop.html">Cloudera</a>**
+	- **<a href="https://hortonworks.com/apache/hadoop/">Hortonworks</a>**
+	- **<a href="https://www.ibm.com/analytics/us/en/technology/hadoop/">IBM</a>**
+	- **<a href="https://www.mapr.com/products/apache-hadoop">MapR Technologies</a>**
+	- **<a href="https://www.sas.com/en_us/insights/big-data/hadoop.html">SAS</a>**
+	
 ---
 
 ### Recommended Texts (Summarized)

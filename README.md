@@ -4,9 +4,11 @@ Resources for Big Data and Data Analytics Projects.
 
 I have completed a number of courses offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - <a href="https://www.coursera.org/specializations/bigdata"><strong>Big Data</strong></a>, and tracking popular online resources and tools in this repository. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
 
+More recently, I am enrolled at **[UCSC Silicon Valley](https://www.ucsc-extension.edu/)** and attending courses for a **[Database and Data Analytics Certificate](https://www.ucsc-extension.edu/programs/database-systems/schedule)**. The courses include: Data Analysis, NoSQL Databases, Data Visualization (Tableau), Internet of Things: Big Data Processing and Analytics, Hadoop: Distributed Processing of Big Data, and Spark with Scala.
+
 Also included are a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. In other cases, output is directed to a terminal window. I've also experimented with Google Analytics and d3.js.
 
-### Apache
+### Apache Projects
 
 - **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>** 
 - **<a href="http://ambari.apache.org/" target="_blank">Ambari</a>** - Web-based tool for provisioning, managing, and monitoring Apache Hadoop clusters
@@ -33,6 +35,8 @@ for Apache Hadoop
 - **<a href="http://tez.apache.org/" target="_blank">Tez</a>** - Application framework which allows for a complex directed-acyclic-graph of tasks for processing data
 - **<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>** - (Yet Another Resource Negotiator) is a cluster management technology
 - **<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>** - Configuration service, synchronization service, and naming registry for large distributed systems
+
+
 
 ### Cassandra
 

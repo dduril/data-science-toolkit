@@ -267,14 +267,17 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 	
 ---
 
-### Recommended Texts (Summarized)
+### Recommended Books
 
 **Hadoop**
 
 - Hadoop: The Definitive Guide _(O'Reilly)_
 - Hadoop2 Quick-Start Guide _(Addison-Wesley)_
-- Java - A Beginner's Guide _(Oracle)_
 - Practical Data Science with Hadoop and Spark _(Addison-Wesley)_
+
+**Java**
+
+- Java - A Beginner's Guide _(Oracle)_
 
 **Perl**
 
@@ -286,9 +289,11 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 **Python**
 
+- Automate The Boring Stuff With Python _(No Starch Press)_
 - Learning Python _(O'Reilly)_
 - Fluent Python _(O'Reilly)_
 - Python Cookbook _(O'Reilly)_
+- The Quick Python Book _(Manning)_
 - Data Science from Scratch _(O'Reilly)_
 - Web Scraping with Python _(O'Reilly)_
 

@@ -36,7 +36,15 @@ for Apache Hadoop
 - **<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>** - (Yet Another Resource Negotiator) is a cluster management technology
 - **<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>** - Configuration service, synchronization service, and naming registry for large distributed systems
 
+### AWS
 
+- **[EC2](https://aws.amazon.com/ec2/)** - Amazon Elastic Compute Cloud
+- **[EC2 Container Registry](https://aws.amazon.com/ecr/)** - Amazon EC2 Container Registry
+- **[ECS](https://aws.amazon.com/ecs/)** - Amazon EC2 Container Service
+- **[S3](https://aws.amazon.com/s3/)** - Amazon Simple Storage Service
+- **[EFS](https://aws.amazon.com/efs/)** - Amazon Elastic File System
+- **[RDS](https://aws.amazon.com/rds/)** - Amazon Relational Database Service
+- **[IoT](https://aws.amazon.com/iot-platform/)** - Amazon Internet of Things Platform
 
 ### Cassandra
 

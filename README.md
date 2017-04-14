@@ -83,6 +83,11 @@ for Apache Hadoop
 	- **<a href="http://selection.datavisualization.ch/" target="_blank">Datavisualization.ch Selected Tools</a>**
 	- **<a href="http://www.visualisingdata.com/resources/" target="_blank">Visualising Data</a>**
 
+### Fog Computing
+
+- **[Fog Computing](https://en.wikipedia.org/wiki/Fog_computing)** - Wikipedia
+- **[OpenFog](https://www.openfogconsortium.org/)**
+
 ### Graph Databases and Tools
 
 - **<a href="https://gephi.org/" target="_blank">Gephi</a>** - Open Graph Viz Platform
@@ -99,6 +104,10 @@ for Apache Hadoop
 	- Hadoop: The Definitive Guide (O'Reilly)
 	- Hadoop2 Quick-Start Guide (Addison-Wesley)
 	- Practical Data Science with Hadoop and Spark (Addison-Wesley)
+
+### Internet of Things (IoT, IIoT, M2M)
+
+- **[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)** - Wikipedia
 
 ### Java
 
@@ -189,6 +198,10 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 	- R for Data Science
 	- R Cookbook
 	- R Graphics Cookbook
+
+### Scala
+
+- **[The Scala Programming Language](https://www.scala-lang.org/)**
 
 ### SQLite
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**

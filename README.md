@@ -207,6 +207,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
 - **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**
 
+### Web-Based Notebooks
+
+- **[Apache Zeppelin](https://zeppelin.apache.org/)**
+- **[Databricks](https://databricks.com/)**
+- **[Jupyter](http://jupyter.org/index.html)**
+
 ---
 
 ### Blogs and Newletters

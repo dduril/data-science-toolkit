@@ -38,6 +38,7 @@ for Apache Hadoop
 
 ### AWS
 
+- **[AWS Console](https://aws.amazon.com/)** - Amazon Web Services
 - **[EC2](https://aws.amazon.com/ec2/)** - Amazon Elastic Compute Cloud
 - **[EC2 Container Registry](https://aws.amazon.com/ecr/)** - Amazon EC2 Container Registry
 - **[ECS](https://aws.amazon.com/ecs/)** - Amazon EC2 Container Service
@@ -159,17 +160,6 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://en.wikipedia.org/wiki/Neo4j" target="_blank">Neo4j - Wikipedia</a>**
 - **<a href="https://en.wikipedia.org/wiki/Graph_database" target="_blank">Graph Databases - Wikipedia</a>**
 
-### Perl
-
-- **<a href="https://www.perl.org/" target="_blank" title="Perl">Perl.org: The Perl Programming Language</a>**
-- **<a href="http://www.activestate.com/activeperl" target="_blank" title="ActivePerl">ActivePerl (ActiveState)</a>**
-- **Recommended Books (O'Reilly Publishers)**
-	- Learning Perl
-	- Programming Perl
-	- Intermediate Perl
-	- Perl Cookbook
-	- Perl Best Practices
-
 ### Python
 
 - **<a href="https://www.python.org/" target="_blank" title="Python">Python</a>**
@@ -218,7 +208,23 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="https://www.datacamp.com/" target="_blank">DataCamp</a>**
 - **<a href="https://www.dataquest.io/home" target="_blank">Dataquest</a>**
 
-### Software and Additional Reading
+### VM Downloads
+- **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
+- **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
+
+### Publicly Available Data Sets
+
+- **<a href="https://www.bls.gov/" target="_blank">Bureau of Labor Statistics</a>** (BLS)
+- **<a href="https://www.bts.gov/" target="_blank">Bureau of Transportation Statistics</a>** (BTS)
+- **<a href="https://www.census.gov/data/data-tools/censtats.html" target="_blank">Censtats</a>**
+- **<a href="https://www.data.gov/" target="_blank">Data.gov</a>**
+- **<a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">FactFinder</a>**
+- **<a href="https://www.google.com/publicdata/directory" target="_blank">Google Public Data</a>**
+- **[Kaggle](https://www.kaggle.com/)**
+- **<a href="https://www.quandl.com/" target="_blank">Quandl</a>**
+- **<a href="https://www.uspto.gov/" target="_blank">United States Patent and Trademark Office</a>** (USTPO)
+
+### Additional Reading
 
 - **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia
 - **<a href="https://aws.amazon.com/big-data/" target="_blank">AWS</a>**
@@ -235,22 +241,6 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **<a href="http://radar.oreilly.com/" target="_blank">O'Reilly Radar</a>**
 - **<a href="https://www.palantir.com/" target="_blank">Palantir</a>**
 - **<a href="http://www.splunk.com/" target="_blank">Splunk</a>**
-
-### VM Downloads
-- **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
-- **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
-
-### Publicly Available Data Sets
-
-- **<a href="https://www.bls.gov/" target="_blank">Bureau of Labor Statistics</a>** (BLS)
-- **<a href="https://www.bts.gov/" target="_blank">Bureau of Transportation Statistics</a>** (BTS)
-- **<a href="https://www.census.gov/data/data-tools/censtats.html" target="_blank">Censtats</a>**
-- **<a href="https://www.data.gov/" target="_blank">Data.gov</a>**
-- **<a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">FactFinder</a>**
-- **<a href="https://www.google.com/publicdata/directory" target="_blank">Google Public Data</a>**
-- **[Kaggle](https://www.kaggle.com/)**
-- **<a href="https://www.quandl.com/" target="_blank">Quandl</a>**
-- **<a href="https://www.uspto.gov/" target="_blank">United States Patent and Trademark Office</a>** (USTPO)
 
 ### Additional (Unsorted)
 
@@ -274,18 +264,11 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - Hadoop: The Definitive Guide _(O'Reilly)_
 - Hadoop2 Quick-Start Guide _(Addison-Wesley)_
 - Practical Data Science with Hadoop and Spark _(Addison-Wesley)_
+- Spark in Action _(Manning)_
 
 **Java**
 
-- Java - A Beginner's Guide _(Oracle)_
-
-**Perl**
-
-- Learning Perl _(O'Reilly)_
-- Programming Perl _(O'Reilly)_
-- Intermediate Perl _(O'Reilly)_
-- Perl Cookbook _(O'Reilly)_
-- Perl Best Practices _(O'Reilly)_
+- Java - A Beginner's Guide _(Oracle Press)_
 
 **Python**
 
@@ -303,3 +286,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - R for Data Science _(O'Reilly)_
 - R Cookbook _(O'Reilly)_
 - R Graphics Cookbook _(O'Reilly)_
+
+**Scala**
+
+- Scala in Action _(Manning)_
+- Scala Cookbook _(O'Reilly)_

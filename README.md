@@ -203,6 +203,11 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 - **[The Scala Programming Language](https://www.scala-lang.org/)**
 
+### SSH Clients
+
+- **[Cygwin](https://www.cygwin.com/)**
+- **[MobaXTerm](http://mobaxterm.mobatek.net/)**
+
 ### SQLite
 - **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
 - **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**

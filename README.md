@@ -202,6 +202,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 ### Scala
 
 - **[The Scala Programming Language](https://www.scala-lang.org/)**
+- **[Twitter Scala School](https://twitter.github.io/scala_school/)**
 
 ### SSH Clients
 

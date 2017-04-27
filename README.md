@@ -236,6 +236,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 ### VM Downloads
 - **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
 - **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
+- **[Hortonworks HDP](https://hortonworks.com/products/data-center/hdp/)**
 
 ### Publicly Available Data Sets
 

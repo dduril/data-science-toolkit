@@ -285,16 +285,23 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Recommended Books
 
+**Amazon Web Services**
+
+- AWS in Action _(Manning)_
+
 **Hadoop**
 
 - Hadoop: The Definitive Guide _(O'Reilly)_
 - Hadoop2 Quick-Start Guide _(Addison-Wesley)_
+- Hadoop in Practice _(Manning)_
+- Learning Spark: Lightning-Fast Big Data Analysis _(O'Reilly)_
 - Practical Data Science with Hadoop and Spark _(Addison-Wesley)_
+- Programming Hive: Data Warehouse and Query Language for Hadoop _(O'Reilly)_
 - Spark in Action _(Manning)_
 
 **Java**
 
-- Java - A Beginner's Guide _(Oracle Press)_
+- Java - A Beginner's Guide - Sixth Edition _(Oracle Press)_
 
 **Python**
 

@@ -49,9 +49,9 @@ for Apache Hadoop
 
 ### Cassandra
 
-- **<a href="http://cassandra.apache.org/" target="_blank" title="Apache Cassandra">Apache  Cassandra</a>**
-- **<a href="https://academy.datastax.com/" target="_blank" title="DataStax Academy">DataStax Academy</a>**
-- **<a href="http://www.planetcassandra.org/" target="_blank" title="Planet Cassandra">Planet Cassandra</a>**
+- **[Apache  Cassandra](http://cassandra.apache.org/)**
+- **[DataStax Academy](https://academy.datastax.com/)**
+- **[Planet Cassandra](http://www.planetcassandra.org/)**
 
 ### Data Virtualization
 
@@ -114,6 +114,7 @@ for Apache Hadoop
 - **<a href="https://www.oracle.com/java/index.html" target="_blank" title="Java">Java</a>**
 - **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Java - Downloads</a>**
 - **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Java - Tutorial</a>**
+- **[Maven](https://maven.apache.org/)**
 - **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network (OTN)</a>**
 - **<a href="http://www.scala-lang.org/" target="_blank">Scala</a>** 
 - **<a href="https://en.wikipedia.org/wiki/Scala_(programming_language)" target="_blank">Scala - Wikipedia Article</a>**
@@ -144,10 +145,10 @@ There are many JavaScript libraries and frameworks that can help in presenting a
  
 ### KNIME Analytics Platform
 
-- **<a href="https://www.knime.org/" target="_blank" title="KNIME Analytics Platform">KNIME</a>**
-- **<a href="https://www.knime.org/knime" target="_blank" title="KNIME Analytics Platform">KNIME - Platform</a>**
-- **<a href="https://tech.knime.org/knime" target="_blank" title="KNIME Analytics Platform">KNIME - Getting Started</a>**
-- **<a href="https://www.youtube.com/user/KNIMETV" target="_blank" title="KNIME Analytics Platform">KNIME TV</a>** - YouTube Channel
+- **[KNIME](https://www.knime.org)**
+- **[KNIME - Platform](https://www.knime.org/knime)**
+- **[KNIME - Getting Started](https://tech.knime.org/knime)**
+- **[KNIME TV](https://www.youtube.com/user/KNIMETV)** - YouTube Channel
 
 ### MongoDB
 
@@ -157,17 +158,17 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 
 MySQL and SQLite are included as they often serve as the data store and they're also handy for quick data import/analysis projects. The software and the tools are free to download.
 
-- **<a href="https://www.mysql.com/" target="_blank" title="MySQL">MySQL</a>**
-- **<a href="http://dev.mysql.com/" target="_blank" title="MySQL Developer Zone">MySQL Developer Zone</a>**
-- **<a href="https://www.mysql.com/products/workbench/" target="_blank" title="MySQL Workbench">MySQL Workbench</a>**
+- **[MySQL](https://www.mysql.com/)**
+- **[MySQL Developer Zone](http://dev.mysql.com/)**
+- **[MySQL Workbench](https://www.mysql.com/products/workbench/)**
 
 ### Neo4j
 
-- **<a href="http://neo4j.com/" target="_blank">Neo4J</a>** - Main Site
-- **<a href="https://neo4j.com/developer/get-started/" target="_blank">Neo4j - Getting Started</a>**
-- **<a href="https://neo4j.com/developer/cypher/" target="_blank">Cypher</a>** - Neo4j's query language
-- **<a href="https://en.wikipedia.org/wiki/Neo4j" target="_blank">Neo4j - Wikipedia</a>**
-- **<a href="https://en.wikipedia.org/wiki/Graph_database" target="_blank">Graph Databases - Wikipedia</a>**
+- **[Neo4J](http://neo4j.com/)** - Main Site
+- **[Neo4j - Getting Started](https://neo4j.com/developer/get-started/)**
+- **[Cypher](https://neo4j.com/developer/cypher/)** - Neo4j's query language
+- **[Neo4j - Wikipedia](https://en.wikipedia.org/wiki/Neo4j)**
+- **[Graph Databases - Wikipedia](https://en.wikipedia.org/wiki/Graph_database)**
 
 ### Python
 

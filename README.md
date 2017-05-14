@@ -260,34 +260,34 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Additional Reading
 
-- **<a href="https://en.wikipedia.org/wiki/Big_data" target="_blank">Big Data</a>** - Wikipedia
-- **<a href="https://aws.amazon.com/big-data/" target="_blank">AWS</a>**
-- **<a href="http://cloudera.com/" target="_blank">Cloudera</a>**
-- **<a href="http://www.datastax.com/" target="_blank">DataStax</a>**
-- **<a href="https://www.elastic.co/" target="_blank">Elastic</a>**
-	- **<a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>**
-	- **<a href="https://www.elastic.co/products/logstash" target="_blank">Logstash</a>**
-	- **<a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>**
-	- **<a href="https://www.elastic.co/products/beats" target="_blank">Beats</a>** 
-- **<a href="http://hortonworks.com/hadoop/" target="_blank" title="Hortonworks">Hortonworks</a>**
-- **<a href="http://www.ibm.com/big-data/us/en/" target="_blank">IBM Big Data</a>**
-- **<a href="https://www.mapr.com/" target="_blank">MapR</a>**
-- **<a href="http://radar.oreilly.com/" target="_blank">O'Reilly Radar</a>**
-- **<a href="https://www.palantir.com/" target="_blank">Palantir</a>**
-- **<a href="http://www.splunk.com/" target="_blank">Splunk</a>**
+- **[Big Data](https://en.wikipedia.org/wiki/Big_data)** - Wikipedia
+- **[AWS](https://aws.amazon.com/big-data/)**
+- **[Cloudera](http://cloudera.com/)**
+- **[DataStax](http://www.datastax.com/)**
+- **[Elastic](https://www.elastic.co/)**
+	- **[Elasticsearch](https://www.elastic.co/products/elasticsearch)**
+	- **[Logstash](https://www.elastic.co/products/logstash)**
+	- **[Kibana](https://www.elastic.co/products/kibana)**
+	- **[Beats](https://www.elastic.co/products/beats)** 
+- **[Hortonworks](http://hortonworks.com/hadoop/)**
+- **[IBM Big Data](http://www.ibm.com/big-data/us/en/)**
+- **[MapR](https://www.mapr.com/)**
+- **[O'Reilly Radar](http://radar.oreilly.com/)**
+- **[Palantir](https://www.palantir.com/)**
+- **[Splunk](http://www.splunk.com/)**
 
 ### Additional (Unsorted)
 
-- **<a href="https://www.continuum.io/" target="_blank" title="Continuum Analytics">Continuum Analytics</a>**
-- **<a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">Google Cloud Platform</a>**
-- **<a href="http://jupyter.org/" target="_blank" title="Jupyter">Jupyter</a>**
-- **<a href="https://rapidminer.com/" target="_blank" title="RapidMiner">RapidMiner</a>**
+- **[Continuum Analytics](https://www.continuum.io/)**
+- **[Google Cloud Platform](https://cloud.google.com/)**
+- **[Jupyter](http://jupyter.org/)**
+- **[RapidMiner](https://rapidminer.com/)**
 - **What is Hadoop?**
-	- **<a href="https://www.cloudera.com/products/open-source/apache-hadoop.html">Cloudera</a>**
-	- **<a href="https://hortonworks.com/apache/hadoop/">Hortonworks</a>**
-	- **<a href="https://www.ibm.com/analytics/us/en/technology/hadoop/">IBM</a>**
-	- **<a href="https://www.mapr.com/products/apache-hadoop">MapR Technologies</a>**
-	- **<a href="https://www.sas.com/en_us/insights/big-data/hadoop.html">SAS</a>**
+	- **[Cloudera](https://www.cloudera.com/products/open-source/apache-hadoop.html)**
+	- **[Hortonworks](https://hortonworks.com/apache/hadoop/)**
+	- **[IBM](https://www.ibm.com/analytics/us/en/technology/hadoop/)**
+	- **[MapR Technologies](https://www.mapr.com/products/apache-hadoop)**
+	- **[SAS](https://www.sas.com/en_us/insights/big-data/hadoop.html)**
 	
 ---
 

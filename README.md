@@ -16,6 +16,7 @@ Also included are a number of resources for developing web applications for afte
 - **<a href="http://cassandra.apache.org/" target="_blank">Cassandra</a>** - Distributed, scalable, high available NoSQL database
 - **<a href="https://drill.apache.org/" target="_blank">Drill</a>** - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
 - **[Falcon](https://falcon.apache.org/)** - Automates data movement and processing for ingest, pipelines, and replication operations
+- **[Flink](https://flink.apache.org/)** - Stream processing framework for distributed, high-performing, always-available, and accurate data streaming applications
 - **<a href="http://flume.apache.org/" target="_blank">Flume</a>** - Service for collecting, aggregating and moving dynamic serial data
 - **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative graph processing system built for high scalability
 - **<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>** - For distributed storage and distributed processing of very large data sets on computer clusters built from commodity hardware

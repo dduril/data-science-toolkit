@@ -178,13 +178,13 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Python
 
-- **<a href="https://www.python.org/" target="_blank" title="Python">Python</a>**
-- **<a href="https://docs.python.org/2/library/" target="_blank" title="Python 2.7 Library">Python 2.7 Library</a>**
-- **<a href="https://pip.pypa.io/en/stable/" target="_blank">PIP</a>** - Package Management System for Python
-- **<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>** - Web Scraping - i.e. pulling data out of HTML and XML files
-- **<a href="http://www.numpy.org/" target="_blank">NumPy</a>** - For Scientific Computing
-- **<a href="http://pandas.pydata.org/" target="_blank">Pandas</a>** - Data Analysis Library
-- **<a href="https://api.mongodb.com/python/current/" target="_blank">PyMongo</a>** - For working with MongoDB
+- **[Python](https://www.python.org/)**
+- **[Python 2.7 Library](https://docs.python.org/2/library/)**
+- **[PIP](https://pip.pypa.io/en/stable/)** - Package Management System for Python
+- **[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)** - Web Scraping - i.e. pulling data out of HTML and XML files
+- **[NumPy](http://www.numpy.org/)** - For Scientific Computing
+- **[Pandas](http://pandas.pydata.org/)** - Data Analysis Library
+- **[PyMongo](https://api.mongodb.com/python/current/)** - For working with MongoDB
 - **Recommended Books (O'Reilly Publishers)**
 	- Learning Python
 	- Fluent Python
@@ -194,12 +194,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
     
 ### R
 
-- **<a href="https://www.r-project.org/" target="_blank" title="R">The R Project for Statistical Computing</a>**
-- **<a href="https://www.rstudio.com/" target="_blank" title="R">RStudio</a>** - Integrated development environment for R programming
-- **<a href="https://cran.r-project.org/" target="_blank" title="CRAN">CRAN</a>** - The Comprehensive R Archive Network
-- **<a href="http://rcharts.io/" target="_blank" title="R">rCharts</a>** - R package to create, customize and publish interactive JavaScript visualizations from R
-- **<a href="http://shiny.rstudio.com/" target="_blank" title="R">Shiny</a>** - Web application framework for R
-- **<a href="https://google.github.io/styleguide/Rguide.xml" target="_blank" title="Google's R Style Guide">Google's R Style Guide</a>**
+- **[The R Project for Statistical Computing](https://www.r-project.org/)**
+- **[RStudio](https://www.rstudio.com/)** - Integrated development environment for R programming
+- **[CRAN](https://cran.r-project.org/)** - The Comprehensive R Archive Network
+- **[rCharts](http://rcharts.io/)** - R package to create, customize and publish interactive JavaScript visualizations from R
+- **[Shiny](http://shiny.rstudio.com/)** - Web application framework for R
+- **[Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)**
 - **Recommended Books (O'Reilly Publishers)**
 	- Learning R
 	- R for Data Science
@@ -217,8 +217,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[MobaXTerm](http://mobaxterm.mobatek.net/)**
 
 ### SQLite
-- **<a href="https://www.sqlite.org/" target="_blank" title="SQLite">SQLite</a>**
-- **<a href="http://sqlitebrowser.org/" target="_blank" title="SQLite Browser">SQLite Browser</a>**
+- **[SQLite](https://www.sqlite.org/)**
+- **[SQLite Browser](http://sqlitebrowser.org/)**
 
 ### Web-Based Notebooks
 

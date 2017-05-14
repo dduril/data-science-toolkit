@@ -151,6 +151,11 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 - **[KNIME - Getting Started](https://tech.knime.org/knime)**
 - **[KNIME TV](https://www.youtube.com/user/KNIMETV)** - YouTube Channel
 
+### Linux
+
+- **[Ubuntu](https://www.ubuntu.com/)**
+- **[Wikipedia](https://en.wikipedia.org/wiki/Linux)**
+
 ### MongoDB
 
 - **[MongoDB](https://www.mongodb.com/)**
@@ -232,12 +237,13 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Online Training
 
-- **<a href="https://www.datacamp.com/" target="_blank">DataCamp</a>**
-- **<a href="https://www.dataquest.io/home" target="_blank">Dataquest</a>**
+- **[DataCamp](https://www.datacamp.com/)**
+- **[Dataquest](https://www.dataquest.io/home)**
 
 ### VM Downloads
-- **<a href="https://www.virtualbox.org/" target="_blank" title="Virtualbox">Virtualbox</a>**, **<a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" title="Virtualbox Downloads">Downloads</a>**
-- **<a href="https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip" target="_blank" title="Cloudera Quickstart VM">Cloudera Quickstart VM</a>**
+- **[Virtualbox](https://www.virtualbox.org/)**
+- **[Virtualbox Downloads](https://www.virtualbox.org/wiki/Downloads)**
+- **[Cloudera Quickstart VM](https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.4.2-0-virtualbox.zip)**
 - **[Hortonworks HDP](https://hortonworks.com/products/data-center/hdp/)**
 
 ### Publicly Available Data Sets

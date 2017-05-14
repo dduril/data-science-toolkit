@@ -248,15 +248,15 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Publicly Available Data Sets
 
-- **<a href="https://www.bls.gov/" target="_blank">Bureau of Labor Statistics</a>** (BLS)
-- **<a href="https://www.bts.gov/" target="_blank">Bureau of Transportation Statistics</a>** (BTS)
-- **<a href="https://www.census.gov/data/data-tools/censtats.html" target="_blank">Censtats</a>**
-- **<a href="https://www.data.gov/" target="_blank">Data.gov</a>**
-- **<a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">FactFinder</a>**
-- **<a href="https://www.google.com/publicdata/directory" target="_blank">Google Public Data</a>**
+- **[Bureau of Labor Statistics](https://www.bls.gov/)** (BLS)
+- **[Bureau of Transportation Statistics](https://www.bts.gov/)** (BTS)
+- **[Censtats](https://www.census.gov/data/data-tools/censtats.html)**
+- **[Data.gov](https://www.data.gov/)**
+- **[FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)**
+- **[Google Public Data](https://www.google.com/publicdata/directory)**
 - **[Kaggle](https://www.kaggle.com/)**
-- **<a href="https://www.quandl.com/" target="_blank">Quandl</a>**
-- **<a href="https://www.uspto.gov/" target="_blank">United States Patent and Trademark Office</a>** (USTPO)
+- **[Quandl](https://www.quandl.com/)**
+- **[United States Patent and Trademark Office](https://www.uspto.gov/)** (USTPO)
 
 ### Additional Reading
 

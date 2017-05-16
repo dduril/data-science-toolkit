@@ -34,7 +34,7 @@ for Apache Hadoop
 	- **[Spark SQL and DataFrames](http://spark.apache.org/sql/)**
 	- **[Spark Streaming](http://spark.apache.org/streaming/)**
 	- **[MLlib](http://spark.apache.org/mllib/)**
-	- **[http://spark.apache.org/graphx/](GraphX)**
+	- **[GraphX](http://spark.apache.org/graphx/)**
 - **<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>** - tool for transerring bulk data between HDFS and relational databases
 - **<a href="http://storm.apache.org/" target="_blank">Storm</a>** - Distributed realtime computation system
 - **<a href="http://tez.apache.org/" target="_blank">Tez</a>** - Application framework which allows for a complex directed-acyclic-graph of tasks for processing data

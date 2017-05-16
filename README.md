@@ -153,12 +153,14 @@ There are many JavaScript libraries and frameworks that can help in presenting a
 
 ### Linux
 
+- **[Getting Started with Amazon EC2 Linux Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)**
 - **[Ubuntu](https://www.ubuntu.com/)**
 - **[Wikipedia](https://en.wikipedia.org/wiki/Linux)**
 
 ### MongoDB
 
 - **[MongoDB](https://www.mongodb.com/)**
+- **[MongoDB 3.4 Manual](https://docs.mongodb.com/manual/)**
 
 ### MySQL
 

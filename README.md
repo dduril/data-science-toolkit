@@ -112,37 +112,37 @@ for Apache Hadoop
 
 ### Java
 
-- **<a href="https://www.oracle.com/java/index.html" target="_blank" title="Java">Java</a>**
-- **<a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" title="Java Downloads">Java - Downloads</a>**
-- **<a href="https://docs.oracle.com/javase/tutorial/" target="_blank" title="Java">Java - Tutorial</a>**
+- **[Java](https://www.oracle.com/java/index.html)**
+- **[Java - Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)**
+- **[Java - Tutorial](https://docs.oracle.com/javase/tutorial/)**
 - **[Maven](https://maven.apache.org/)**
-- **<a href="http://www.oracle.com/technetwork/java/index.html" target="_blank" title="OTN Java">Oracle Technology Network (OTN)</a>**
-- **<a href="http://www.scala-lang.org/" target="_blank">Scala</a>** 
-- **<a href="https://en.wikipedia.org/wiki/Scala_(programming_language)" target="_blank">Scala - Wikipedia Article</a>**
+- **[Oracle Technology Network (OTN)](http://www.oracle.com/technetwork/java/index.html)**
+- **[Scala](http://www.scala-lang.org/)** 
+- **[Scala - Wikipedia Article](https://en.wikipedia.org/wiki/Scala_(programming_language))**
 - **Recommended Books**
 	- Java - A Beginner's Guide (Oracle)
 
 ### Java IDEs
 
-- **<a href="http://www.bluej.org/" target="_blank">BlueJ</a>** - Primarily for Beginners/Educational
-- **<a href="https://eclipse.org/" target="_blank" title="Eclipse">Eclipse</a>**
-- **<a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ">IntelliJ</a>**
-- **<a href="http://www.oracle.com/technetwork/developer-tools/jdev/overview/index.html" target="_blank" title="JDeveloper">JDeveloper</a>**
-- **<a href="https://netbeans.org/" target="_blank" title="NetBeans">NetBeans</a>**, **<a href="https://netbeans.org/downloads/" target="_blank" title="NetBeans Downloads">Downloads</a>**, **<a href="https://netbeans.org/kb/index.html" target="_blank" title="NetBeans Documentation">Documentation</a>** 
+- **[BlueJ](http://www.bluej.org/)** - Primarily for Beginners/Educational
+- **[Eclipse](https://eclipse.org/)**
+- **[IntelliJ](https://www.jetbrains.com/idea/)**
+- **[JDeveloper](http://www.oracle.com/technetwork/developer-tools/jdev/overview/index.html)**
+- **[NetBeans](https://netbeans.org/)**, **[Downloads](https://netbeans.org/downloads/)**, **[Documentation](https://netbeans.org/kb/index.html)** 
  
 ### JavaScript Charts/Maps/Visualizations
 
 There are many JavaScript libraries and frameworks that can help in presenting and visualizing your data sets when producing web pages and documentation. Included here are some of the more popular ones to get started.
 
-- **<a href="http://www.chartjs.org/" target="_blank" title="Chart.js">Chart.js</a>**
-	- **<a href="http://www.chartjs.org/docs/" target="_blank" title="Chart.js">Documentation</a>**
-- **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>**
-- **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
-	- **<a href="https://developers.google.com/chart/interactive/docs/" target="_blank">Documentation</a>**
-	- **<a href="https://developers.google.com/chart/interactive/docs/quick_start" target="_blank">Quick Start</a>**
-- **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
-- **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
-- **<a href="http://leafletjs.com/" target="_blank">Leaflet</a>**
+- **[Chart.js](http://www.chartjs.org/)**
+	- **[Documentation](http://www.chartjs.org/docs/)**
+- **[D3.js](https://d3js.org/)**
+- **[Google Charts](https://developers.google.com/chart/)**
+	- **[Documentation](https://developers.google.com/chart/interactive/docs/)**
+	- **[Quick Start](https://developers.google.com/chart/interactive/docs/quick_start)**
+- **[HighCharts](http://www.highcharts.com/)**
+- **[jQuery](https://jquery.com/)**
+- **[Leaflet](http://leafletjs.com/)**
  
 ### KNIME Analytics Platform
 

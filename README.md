@@ -10,36 +10,36 @@ Also included are a number of resources for developing web applications for afte
 
 ### Apache Projects
 
-- **<a href="http://www.apache.org/index.html#projects-list" target="_blank" title="Apache Projects">Apache Projects</a>** 
-- **<a href="http://ambari.apache.org/" target="_blank">Ambari</a>** - Web-based tool for provisioning, managing, and monitoring Apache Hadoop clusters
-- **<a href="https://avro.apache.org/" target="_blank">Avro</a>** - Serialization format so that data can be exchanged between programs written in difference languages
-- **<a href="http://cassandra.apache.org/" target="_blank">Cassandra</a>** - Distributed, scalable, high available NoSQL database
-- **<a href="https://drill.apache.org/" target="_blank">Drill</a>** - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
+- **[Apache Projects](http://www.apache.org/index.html#projects-list)** 
+- **[Ambari](http://ambari.apache.org/)** - Web-based tool for provisioning, managing, and monitoring Apache Hadoop clusters
+- **[Avro](https://avro.apache.org/)** - Serialization format so that data can be exchanged between programs written in difference languages
+- **[Cassandra](http://cassandra.apache.org/)** - Distributed, scalable, high available NoSQL database
+- **[Drill](https://drill.apache.org/)** - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
 - **[Falcon](https://falcon.apache.org/)** - Automates data movement and processing for ingest, pipelines, and replication operations
 - **[Flink](https://flink.apache.org/)** - Stream processing framework for distributed, high-performing, always-available, and accurate data streaming applications
-- **<a href="http://flume.apache.org/" target="_blank">Flume</a>** - Service for collecting, aggregating and moving dynamic serial data
-- **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative graph processing system built for high scalability
-- **<a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>** - For distributed storage and distributed processing of very large data sets on computer clusters built from commodity hardware
-- **<a href="http://hbase.apache.org/" target="_blank">HBase</a>** - Column-oriented key/value data store built to run on top of the Hadoop Distributed File System (HDFS)
-- **<a href="http://hive.apache.org/" target="_blank">Hive</a>** - Data warehouse infrastructure, data summarization, query, and analysis.
-- **<a href="http://gethue.com/" target="_blank">Hue</a>** - Web interface for analyzing data with Apache Hadoop
-- **<a href="http://impala.io/" target="_blank">Impala</a>** - Open source, native analytic database
+- **[Flume](http://flume.apache.org/)** - Service for collecting, aggregating and moving dynamic serial data
+- **[Giraph](http://giraph.apache.org/)** - Iterative graph processing system built for high scalability
+- **[Hadoop](http://hadoop.apache.org/)** - For distributed storage and distributed processing of very large data sets on computer clusters built from commodity hardware
+- **[HBase](http://hbase.apache.org/)** - Column-oriented key/value data store built to run on top of the Hadoop Distributed File System (HDFS)
+- **[Hive](http://hive.apache.org/)** - Data warehouse infrastructure, data summarization, query, and analysis.
+- **[Hue](http://gethue.com/)** - Web interface for analyzing data with Apache Hadoop
+- **[Impala](http://impala.io/)** - Open source, native analytic database
 for Apache Hadoop
-- **<a href="http://kafka.apache.org/" target="_blank">Kafka</a>** - Used for building real-time data pipelines and streaming apps
-- **<a href="http://mahout.apache.org/" target="_blank">Mahout</a>** - Scalable machine-learning library
-- **<a href="http://oozie.apache.org/" target="_blank">Oozie</a>** - Workflow/coordination system to manage mutlistage Hadoop jobs
-- **<a href="http://parquet.apache.org/" target="_blank">Parquet</a>** - Columnar storage format for Hadoop ecosystem
-- **<a href="http://pig.apache.org/" target="_blank">Pig</a>** - High-level platform for creating programs that run on Apache Hadoop
-- **<a href="http://spark.apache.org/" target="_blank">Spark</a>** - Open-source engine developed specifically for handling large-scale data processing and analytics.
+- **[Kafka](http://kafka.apache.org/)** - Used for building real-time data pipelines and streaming apps
+- **[Mahout](http://mahout.apache.org/)** - Scalable machine-learning library
+- **[Oozie](http://oozie.apache.org/)** - Workflow/coordination system to manage mutlistage Hadoop jobs
+- **[Parquet](http://parquet.apache.org/)** - Columnar storage format for Hadoop ecosystem
+- **[Pig](http://pig.apache.org/)** - High-level platform for creating programs that run on Apache Hadoop
+- **[Spark](http://spark.apache.org/)** - Open-source engine developed specifically for handling large-scale data processing and analytics.
 	- **[Spark SQL and DataFrames](http://spark.apache.org/sql/)**
 	- **[Spark Streaming](http://spark.apache.org/streaming/)**
 	- **[MLlib](http://spark.apache.org/mllib/)**
 	- **[GraphX](http://spark.apache.org/graphx/)**
-- **<a href="http://sqoop.apache.org/" target="_blank">Sqoop</a>** - tool for transerring bulk data between HDFS and relational databases
-- **<a href="http://storm.apache.org/" target="_blank">Storm</a>** - Distributed realtime computation system
-- **<a href="http://tez.apache.org/" target="_blank">Tez</a>** - Application framework which allows for a complex directed-acyclic-graph of tasks for processing data
-- **<a href="https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank">Yarn</a>** - (Yet Another Resource Negotiator) is a cluster management technology
-- **<a href="http://zookeeper.apache.org/" target="_blank">Zoopkeeper</a>** - Configuration service, synchronization service, and naming registry for large distributed systems
+- **[Sqoop](http://sqoop.apache.org/)** - tool for transerring bulk data between HDFS and relational databases
+- **[Storm](http://storm.apache.org/)** - Distributed realtime computation system
+- **[Tez](http://tez.apache.org/)** - Application framework which allows for a complex directed-acyclic-graph of tasks for processing data
+- **[Yarn](https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html)** - (Yet Another Resource Negotiator) is a cluster management technology
+- **[Zoopkeeper](http://zookeeper.apache.org/)** - Configuration service, synchronization service, and naming registry for large distributed systems
 
 ### AWS
 

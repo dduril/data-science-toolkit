@@ -60,33 +60,33 @@ for Apache Hadoop
 
 ### Data Virtualization
 
-- **<a href="https://en.wikipedia.org/wiki/Data_virtualization" target="_blank">Data virtualization</a>** (Wikipedia article)
-- **<a href="http://www.datavirtualizationblog.com/" target="_blank">Data virtualization blog</a>**
-- **<a href="http://www.compositesw.com/data-virtualization/" target="_blank">Cisco - Data Virtualization</a>** (formerly Composite Software)
-- **<a href="http://www.compositesw.com/products-services/" target="_blank">Cisco - Data Virtualization Platform</a>**
-- **<a href="https://www.delphix.com/" target="_blank">Delphix</a>**
-- **<a href="http://www.denodo.com/en/data-virtualization/overview" target="_blank">Denodo</a>**
-- **<a href="https://www.informatica.com/products/data-integration/real-time-integration/data-virtualization.html#fbid=aaBpQg8plwk" target="_blank">Informatica</a>**
-- **<a href="https://www.veritas.com/product/data-virtualization.html" target="_blank">Veritas</a>**
+- **[Data virtualization](https://en.wikipedia.org/wiki/Data_virtualization)** (Wikipedia article)
+- **[Data virtualization blog](http://www.datavirtualizationblog.com/)**
+- **[Cisco - Data Virtualization](http://www.compositesw.com/data-virtualization/)** (formerly Composite Software)
+- **[Cisco - Data Virtualization Platform](http://www.compositesw.com/products-services/)**
+- **[Delphix](https://www.delphix.com/)**
+- **[Denodo](http://www.denodo.com/en/data-virtualization/overview)**
+- **[Informatica](https://www.informatica.com/products/data-integration/real-time-integration/data-virtualization.html#fbid=aaBpQg8plwk)**
+- **[Veritas](https://www.veritas.com/product/data-virtualization.html)**
 
 ### Data Visualization
 
-- **<a href="https://www.domo.com/" target="_blank">Domo</a>**
-- **<a href="https://looker.com/" target="_blank">Looker</a>**
-- **<a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a>**
-- **<a href="http://www.qlik.com/us/" target="_blank">Qlik</a>**
-- **<a href="http://www.tableau.com/" target="_blank">Tableau</a>**
-	- **<a href="https://www.tableau.com/support/help">Tableau Help</a>**
-		- **<a href="https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm">Welcome to Tableau Desktop</a>**
-		- **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html">Get Started with Tableau Desktop</a>**
-		- **<a href="https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html">Learning Library</a>** 
-		- **<a href="https://www.tableau.com/learn/training">Free Training Videos</a>** 
-	- **<a href="https://onlinehelp.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm">Tableau JavaScript API</a>**
-		- **<a href="https://github.com/tableau/js-api-samples">Github repo </a>**
-	- **<a href="https://community.tableau.com/community/developers">Tableau Developer Community</a>**
+- **[Domo](https://www.domo.com/)**
+- **[Looker](https://looker.com/)**
+- **[Power BI](https://powerbi.microsoft.com/en-us/)**
+- **[Qlik](http://www.qlik.com/us/)**
+- **[Tableau](http://www.tableau.com/)**
+	- **[Tableau Help](https://www.tableau.com/support/help)**
+		- **[Welcome to Tableau Desktop](https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm)**
+		- **[Get Started with Tableau Desktop](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html)**
+		- **[Learning Library](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html)** 
+		- **[Free Training Videos](https://www.tableau.com/learn/training)** 
+	- **[Tableau JavaScript API](https://onlinehelp.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm)**
+		- **[Github repo](https://github.com/tableau/js-api-samples)**
+	- **[Tableau Developer Community](https://community.tableau.com/community/developers)**
 - **Additional Resources**
-	- **<a href="http://selection.datavisualization.ch/" target="_blank">Datavisualization.ch Selected Tools</a>**
-	- **<a href="http://www.visualisingdata.com/resources/" target="_blank">Visualising Data</a>**
+	- **[Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)**
+	- **[Visualising Data](http://www.visualisingdata.com/resources/)**
 
 ### Fog Computing
 
@@ -95,16 +95,16 @@ for Apache Hadoop
 
 ### Graph Databases and Tools
 
-- **<a href="https://gephi.org/" target="_blank">Gephi</a>** - Open Graph Viz Platform
-- **<a href="http://giraph.apache.org/" target="_blank">Giraph</a>** - Iterative Graph Processing System
-- **<a href="https://support.google.com/fusiontables/answer/2571232" target="_blank">Google Fusion Tables</a>** - Experimental Project
-- **<a href="http://spark.apache.org/graphx/" target="_blank">GraphX</a>** - Graph Processing Library
-- **<a href="https://en.wikipedia.org/wiki/Graph_database" target="_blank">Graph Databases</a>** - Wikipedia
+- **[Gephi](https://gephi.org/)** - Open Graph Viz Platform
+- **[Giraph](http://giraph.apache.org/)** - Iterative Graph Processing System
+- **[Google Fusion Tables](https://support.google.com/fusiontables/answer/2571232)** - Experimental Project
+- **[GraphX](http://spark.apache.org/graphx/)** - Graph Processing Library
+- **[Graph Databases](https://en.wikipedia.org/wiki/Graph_database)** - Wikipedia
 
 ### Hadoop
 
-- **<a href="https://hadoop.apache.org/" target="_blank" title="Apache Hadoop">Apache Hadoop</a>**
-- **<a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html" target="_blank">HDFS Command Line</a>**
+- **[Apache Hadoop](https://hadoop.apache.org/)**
+- **[HDFS Command Line](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)**
 - **Recommended Books**
 	- Hadoop: The Definitive Guide (O'Reilly)
 	- Hadoop2 Quick-Start Guide (Addison-Wesley)

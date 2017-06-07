@@ -121,8 +121,6 @@ for Apache Hadoop
 - **[Java - Tutorial](https://docs.oracle.com/javase/tutorial/)**
 - **[Maven](https://maven.apache.org/)**
 - **[Oracle Technology Network (OTN)](http://www.oracle.com/technetwork/java/index.html)**
-- **[Scala](http://www.scala-lang.org/)** 
-- **[Scala - Wikipedia Article](https://en.wikipedia.org/wiki/Scala_(programming_language))**
 - **Recommended Books**
 	- Java - A Beginner's Guide (Oracle)
 
@@ -206,6 +204,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[rCharts](http://rcharts.io/)** - R package to create, customize and publish interactive JavaScript visualizations from R
 - **[Shiny](http://shiny.rstudio.com/)** - Web application framework for R
 - **[Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)**
+- **[R Markdown](http://rmarkdown.rstudio.com/index.html)**
 - **Recommended Books (O'Reilly Publishers)**
 	- Learning R
 	- R for Data Science

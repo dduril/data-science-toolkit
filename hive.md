@@ -1,6 +1,6 @@
 # Hive Tutorial
 
--- under development
+#### Basic Tutorial and Notes for programming and administration using Hive and HiveQL.
 
 
 

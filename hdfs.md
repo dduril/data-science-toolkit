@@ -1,6 +1,6 @@
 # HDFS - File System (FS) Shell
 
--- under development
+#### Basic Guide to commands and administration in HDFS.
 
 
 

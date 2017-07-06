@@ -44,6 +44,7 @@ for Apache Hadoop
 ### AWS
 
 - **[AWS Console](https://aws.amazon.com/)** - Amazon Web Services
+- **[AWS CloudFormation](https://aws.amazon.com/cloudformation/)**
 - **[EC2](https://aws.amazon.com/ec2/)** - Amazon Elastic Compute Cloud
 - **[EC2 Container Registry](https://aws.amazon.com/ecr/)** - Amazon EC2 Container Registry
 - **[ECS](https://aws.amazon.com/ecs/)** - Amazon EC2 Container Service

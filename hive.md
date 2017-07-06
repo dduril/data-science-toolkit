@@ -22,6 +22,20 @@ Hive keywords are often capitalized - as in SHOW or USE, but this is not mandato
 	employees
 	stocks
 
+**View Table Schema**
+
+	hive> DESCRIBE dividends;
+
+	hive> DESCRIBE FORMATTER dividends;
+
+**Select Queries**
+
+	hive> SELECT * FROM dividends;
+
+The above query will return all columns from the table with no ordering or limits. In most cases, it is better to refine the query:
+
+	hive> SELECT symbol, divident, ymd FROM dividends ORDER BY symbol LIMIT 10;
+
 
 
 

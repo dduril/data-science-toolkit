@@ -182,8 +182,11 @@ The above query will return all columns from the table with no ordering or limit
 	Fred Finance	{"street":"2 Pretentious Drive.","city":"Chicago","state":"IL","zip":60500}
 	Stacy Accountant	{"street":"300 Main St.","city":"Naperville","state":"IL","zip":60563}
 	
-	--subordinates        	array<string>       	                    
-	
+	--
+	-- example of accessing an element from an array type
+	-- subordinates        	array<string>       	                    
+	--
+
 	hive> SELECT name, subordinates[0] FROM employees;
 	John Doe	Mary Smith
 	Mary Smith	Bill King
@@ -193,8 +196,11 @@ The above query will return all columns from the table with no ordering or limit
 	Fred Finance	Stacy Accountant
 	Stacy Accountant	NULL
 	
-	--deductions          	map<string,float>   	                    
-	
+	--
+	-- example of accessing a key from a map type - Federal Taxes, State Taxes, or Insurance
+	-- deductions          	map<string,float>   	                    
+	--
+
 	hive> SELECT name, deductions["State Taxes"] FROM employees;
 	John Doe	0.05
 	Mary Smith	0.05
@@ -204,7 +210,10 @@ The above query will return all columns from the table with no ordering or limit
 	Fred Finance	0.07
 	Stacy Accountant	0.03
 	
-	--address             	struct<street:string,city:string,state:string,zip:int>
+	--
+	-- example of accessing a field from a struct type - street, city, state, or zip
+	-- address             	struct<street:string,city:string,state:string,zip:int>
+	--
 
 	hive> SELECT name, address.city FROM employees;
 	John Doe	Chicago

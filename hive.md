@@ -80,19 +80,61 @@ Hive keywords are often capitalized - as in SHOW or USE, but this is not mandato
 	default
 	prog_hive
 	stocks
+
+DESCRIBE DATABASE [database] will show table comments and the directory location for the database:
+
+	hive> DESCRIBE DATABASE prog_hive;
 	
+USE the prog_hive database:
+
 	hive> USE prog_hive;
 	
 	hive> SHOW tables;
 	dividends
 	employees
 	stocks
-
+	
 **View Table Schema**
 
-	hive> DESCRIBE dividends;
+There us also a more detailed DESCRIBE EXTENDED and DESCRIBE FORMATTED commands
 
-	hive> DESCRIBE FORMATTER dividends;
+	hive> DESCRIBE dividends;
+	exchange_name       	string              	                    
+	symbol              	string              	                    
+	ymd                 	string              	                    
+	dividend            	float               	                    
+	
+	hive> DESCRIBE employees;
+	name                	string              	                    
+	salary              	float               	                    
+	subordinates        	array<string>       	                    
+	deductions          	map<string,float>   	                    
+	address             	struct<street:string,city:string,state:string,zip:int>	                    
+	
+	hive> DESCRIBE stocks;
+	exchange_name       	string              	                    
+	symbol              	string              	                    
+	ymd                 	string              	                    
+	price_open          	float               	                    
+	price_high          	float               	                    
+	price_low           	float               	                    
+	price_close         	float               	                    
+	volume              	int                 	                    
+	price_adj_close     	float               	                    
+	
+**Check Table Counts**
+
+	hive> select count(*) from dividends;
+	15208
+	
+	hive> select count(*) from employees;
+	7
+	
+	hive> select count(*) from stocks;
+	2075394
+
+
+	hive> DESCRIBE FORMATTED dividends;
 
 **Select Queries**
 
@@ -101,6 +143,77 @@ Hive keywords are often capitalized - as in SHOW or USE, but this is not mandato
 The above query will return all columns from the table with no ordering or limits. In most cases, it is better to refine the query:
 
 	hive> SELECT symbol, divident, ymd FROM dividends ORDER BY symbol LIMIT 10;
+
+**Additional Queries and Output**
+
+	hive> SELECT name, salary FROM employees;
+	John Doe	100000.0
+	Mary Smith	80000.0
+	Todd Jones	70000.0
+	Bill King	60000.0
+	Boss Man	200000.0
+	Fred Finance	150000.0
+	Stacy Accountant	60000.0
+	
+	hive> SELECT name, subordinates FROM employees;
+	John Doe	["Mary Smith","Todd Jones"]
+	Mary Smith	["Bill King"]
+	Todd Jones	[]
+	Bill King	[]
+	Boss Man	["John Doe","Fred Finance"]
+	Fred Finance	["Stacy Accountant"]
+	Stacy Accountant	[]
+	
+	hive> SELECT name, deductions FROM employees;
+	John Doe	{"Federal Taxes":0.2,"State Taxes":0.05,"Insurance":0.1}
+	Mary Smith	{"Federal Taxes":0.2,"State Taxes":0.05,"Insurance":0.1}
+	Todd Jones	{"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
+	Bill King	{"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
+	Boss Man	{"Federal Taxes":0.3,"State Taxes":0.07,"Insurance":0.05}
+	Fred Finance	{"Federal Taxes":0.3,"State Taxes":0.07,"Insurance":0.05}
+	Stacy Accountant	{"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
+	
+	hive> SELECT name, address FROM employees;
+	John Doe	{"street":"1 Michigan Ave.","city":"Chicago","state":"IL","zip":60600}
+	Mary Smith	{"street":"100 Ontario St.","city":"Chicago","state":"IL","zip":60601}
+	Todd Jones	{"street":"200 Chicago Ave.","city":"Oak Park","state":"IL","zip":60700}
+	Bill King	{"street":"300 Obscure Dr.","city":"Obscuria","state":"IL","zip":60100}
+	Boss Man	{"street":"1 Pretentious Drive.","city":"Chicago","state":"IL","zip":60500}
+	Fred Finance	{"street":"2 Pretentious Drive.","city":"Chicago","state":"IL","zip":60500}
+	Stacy Accountant	{"street":"300 Main St.","city":"Naperville","state":"IL","zip":60563}
+	
+	--subordinates        	array<string>       	                    
+	
+	hive> SELECT name, subordinates[0] FROM employees;
+	John Doe	Mary Smith
+	Mary Smith	Bill King
+	Todd Jones	NULL
+	Bill King	NULL
+	Boss Man	John Doe
+	Fred Finance	Stacy Accountant
+	Stacy Accountant	NULL
+	
+	--deductions          	map<string,float>   	                    
+	
+	hive> SELECT name, deductions["State Taxes"] FROM employees;
+	John Doe	0.05
+	Mary Smith	0.05
+	Todd Jones	0.03
+	Bill King	0.03
+	Boss Man	0.07
+	Fred Finance	0.07
+	Stacy Accountant	0.03
+	
+	--address             	struct<street:string,city:string,state:string,zip:int>
+
+	hive> SELECT name, address.city FROM employees;
+	John Doe	Chicago
+	Mary Smith	Chicago
+	Todd Jones	Oak Park
+	Bill King	Obscuria
+	Boss Man	Chicago
+	Fred Finance	Chicago
+	Stacy Accountant	Naperville
 
 
 

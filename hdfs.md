@@ -5,7 +5,6 @@
 **Listing Files** using <code>hadoop</code> and <code>hdfs</code>:
 
 	$ hadoop fs -ls /user/cloudera
-
 	$ hdfs dfs -ls /user/cloudera
 
 These commands return the same result. <code>hadoop</code> and <code>hdfs</code> are two different scripts but when you say: *hadoop fs* the hadoop script finds the hdfs script and runs *hdfs dfs*.
@@ -30,8 +29,8 @@ These commands return the same result. <code>hadoop</code> and <code>hdfs</code>
 
 **Copy the files from HDFS to local machine**
 
-	$ hdfs dfs -get /user/cloudera/input/testfile1 /home/cloudera
-	$ hdfs dfs -get /user/cloudera/input/testfile2 /home/cloudera
+	$ hdfs dfs -get /user/cloudera/input/outputfile1 /home/cloudera
+	$ hdfs dfs -get /user/cloudera/input/outputfile2 /home/cloudera
 
 Upcoming examples: 
 cat, count, cp, du, ls, lsr, mkdir, mv, rm, rmr, stat, tail, test, touchz 

@@ -19,7 +19,7 @@ These commands return the same result. <code>hadoop</code> and <code>hdfs</code>
 
 	$ hdfs dfs -mkdir /user/cloudera/input
 
-**Copy the files from local to HDFS**
+**Copy the files from local machine to HDFS**
 
 	$ hdfs dfs -put /home/cloudera/testfile1 /user/cloudera/input
 	$ hdfs dfs -put /home/cloudera/testfile2 /user/cloudera/input
@@ -27,6 +27,14 @@ These commands return the same result. <code>hadoop</code> and <code>hdfs</code>
 **Inspect the files in HDFS**
 
 	$ hdfs dfs -ls /user/cloudera/input
+
+**Copy the files from HDFS to local machine**
+
+	$ hdfs dfs -get /user/cloudera/input/testfile1 /home/cloudera
+	$ hdfs dfs -get /user/cloudera/input/testfile2 /home/cloudera
+
+Upcoming examples: 
+cat, count, cp, du, ls, lsr, mkdir, mv, rm, rmr, stat, tail, test, touchz 
 
 
 

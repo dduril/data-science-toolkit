@@ -31,9 +31,50 @@ These commands return the same result. <code>hadoop</code> and <code>hdfs</code>
 
 	$ hdfs dfs -get /user/cloudera/input/outputfile1 /home/cloudera
 	$ hdfs dfs -get /user/cloudera/input/outputfile2 /home/cloudera
+ 
+#### Additional Commands
 
-Upcoming examples: 
-cat, count, cp, du, ls, lsr, mkdir, mv, rm, rmr, stat, tail, test, touchz 
+**cat**
+
+**chmod**
+
+**chown**
+
+**copyFromLocal**
+
+**copyToLocal**
+
+**count**
+
+**cp**
+
+**du**
+
+**ls**
+
+**lsr**
+
+**mkdir**
+
+**moveFromLocal**
+
+**moveToLocal**
+
+**mv**
+
+**rm**
+
+**rmr**
+
+**stat**
+
+**tail**
+
+**test**
+
+**text**
+
+**touchz**
 
 
 

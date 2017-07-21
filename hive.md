@@ -291,9 +291,41 @@ The above query will return all columns from the table with no ordering or limit
 
 **Nested SELECT Statements**
 
+	hive> FROM (
+        > SELECT upper(name), salary, deductions["Federal Taxes"] AS fed_taxes,
+        > round(salary * (1 - deductions["Federal Taxes"])) AS salary_minus_fed_taxes
+        > FROM employees
+        > ) e
+        > SELECT e.name, e.salary_minus_fed_taxes
+        > WHERE e.salary_minus_fed_taxes > 70000;
+	JOHN DOE	100000.0	0.2		80000.0
+
 **CASE...WHEN...THEN Statements**
 
+	hive> SELECT name, salary,
+    	> CASE
+    	> WHEN salary < 50000.0 THEN 'low'
+    	> WHEN salary >= 50000.0 AND salary < 70000.0  THEN 'middle'
+    	> WHEN salary >= 70000.0 AND salary < 100000.0  THEN 'high'
+    	> ELSE 'very high'
+    	> END AS bracket FROM employees;
+	John Doe			100000.0	very high
+	Mary Smith			80000.0		high
+	Todd Jones			70000.0		high
+	Bill King			60000.0		middle
+	Boss Man			200000.0	very high
+	Fred Finance		150000.0	very high
+	Stacy Accountant	60000.0		middle
+
 **WHERE Clauses**
+
+	hive> SELECT name, address.street, address.city, address.state, address.zip 
+	    > FROM employees
+        > WHERE address.city = 'Chicago' AND address.state = 'IL';
+	John Doe		1 Michigan Ave.			Chicago	IL	60600
+	Mary Smith		100 Ontario St.			Chicago	IL	60601
+	Boss Man		1 Pretentious Drive.	Chicago	IL	60500
+	Fred Finance	2 Pretentious Drive.	Chicago	IL	60500
 
 **LIKE and RLIKE**
 
@@ -307,35 +339,19 @@ The above query will return all columns from the table with no ordering or limit
 
 **LEFT OUTER JOIN**
 
-
-
 **RIGHT OUTER JOIN**
-
-
 
 **FULL OUTER JOIN**
 
-
-
 **LEFT SEMI-JOIN**
-
-
 
 **ORDER BY and SORT BY**
 
-
-
 **DISTRIBUTE BY with SORT BY**
-
-
 
 **CLUSTER BY**
 
-
-
 **Casting**
-
-
 
 
 

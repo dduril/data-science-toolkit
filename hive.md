@@ -297,7 +297,7 @@ The above query will return all columns from the table with no ordering or limit
         > ) e
         > SELECT e.name, e.salary_minus_fed_taxes
         > WHERE e.salary_minus_fed_taxes > 70000;
-	JOHN DOE	100000.0	0.2		80000.0
+	JOHN DOE    100000.0    0.2    80000.0
 
 **CASE...WHEN...THEN Statements**
 
@@ -308,42 +308,42 @@ The above query will return all columns from the table with no ordering or limit
         > WHEN salary >= 70000.0 AND salary < 100000.0  THEN 'high'
         > ELSE 'very high'
         > END AS bracket FROM employees;
-	John Doe			100000.0	very high
-	Mary Smith			80000.0		high
-	Todd Jones			70000.0		high
-	Bill King			60000.0		middle
-	Boss Man			200000.0	very high
-	Fred Finance		150000.0	very high
-	Stacy Accountant	60000.0		middle
+	John Doe            100000.0    very high
+	Mary Smith          80000.0     high
+	Todd Jones          70000.0     high
+	Bill King           60000.0     middle
+	Boss Man            200000.0    very high
+	Fred Finance        150000.0    very high
+	Stacy Accountant    60000.0     middle
 
 **WHERE Clauses**
 
 	hive> SELECT name, address.street, address.city, address.state, address.zip 
 	    > FROM employees
         > WHERE address.city = 'Chicago' AND address.state = 'IL';
-	John Doe		1 Michigan Ave.			Chicago	IL	60600
-	Mary Smith		100 Ontario St.			Chicago	IL	60601
-	Boss Man		1 Pretentious Drive.	Chicago	IL	60500
-	Fred Finance	2 Pretentious Drive.	Chicago	IL	60500
+	John Doe        1 Michigan Ave.			Chicago	IL	60600
+	Mary Smith      100 Ontario St.			Chicago	IL	60601
+	Boss Man        1 Pretentious Drive.	Chicago	IL	60500
+	Fred Finance    2 Pretentious Drive.	Chicago	IL	60500
 
 **LIKE and RLIKE**
 
 	hive> SELECT name, address.street FROM employees WHERE address.street LIKE '%Ave.';
-	John Doe		1 Michigan Ave.
-	Todd Jones		200 Chicago Ave.
+	John Doe        1 Michigan Ave.
+	Todd Jones      200 Chicago Ave.
 
 	hive> SELECT name, address.street FROM employees WHERE address.street LIKE '2%';
-	Todd Jones		200 Chicago Ave.
-	Fred Finance	2 Pretentious Drive.
+	Todd Jones      200 Chicago Ave.
+	Fred Finance    2 Pretentious Drive.
 
 	hive> SELECT name, address.street FROM employees WHERE address.street LIKE '%P%';
-	Boss Man		1 Pretentious Drive.
-	Fred Finance	2 Pretentious Drive.
+	Boss Man        1 Pretentious Drive.
+	Fred Finance    2 Pretentious Drive.
 
 	hive> SELECT  name, address.street
         > FROM employees WHERE address.street RLIKE '.*(Chicago|Ontario).*';
-	Mary Smith	100 Ontario St.
-	Todd Jones	200 Chicago Ave.
+	Mary Smith      100 Ontario St.
+	Todd Jones      200 Chicago Ave.
 
 **GROUP BY Clauses**
 
@@ -397,10 +397,10 @@ The above query will return all columns from the table with no ordering or limit
 **LEFT OUTER JOIN**
 
 	hive> SELECT s.ymd, s.symbol, s.price_close, d.dividend
-	> FROM stocks s LEFT OUTER JOIN dividends d
-	> ON s.ymd = d.ymd AND s.symbol = d.symbol
-	> WHERE s.symbol = 'IBM'
-	> LIMIT 10;
+	    > FROM stocks s LEFT OUTER JOIN dividends d
+	    > ON s.ymd = d.ymd AND s.symbol = d.symbol
+	    > WHERE s.symbol = 'IBM'
+	    > LIMIT 10;
 	2010-02-08	IBM	121.88	0.55
 	2010-02-05	IBM	123.52	NULL
 	2010-02-04	IBM	123.0	NULL
@@ -410,10 +410,10 @@ The above query will return all columns from the table with no ordering or limit
 **RIGHT OUTER JOIN**
 
 	hive> SELECT s.ymd, s.symbol, s.price_close, d.dividend
-	> FROM dividends d RIGHT OUTER JOIN stocks s
-	> ON d.ymd = s.ymd AND d.symbol = s.symbol
-	> WHERE s.symbol = 'IBM'
-	> LIMIT 10;
+	    > FROM dividends d RIGHT OUTER JOIN stocks s
+	    > ON d.ymd = s.ymd AND d.symbol = s.symbol
+	    > WHERE s.symbol = 'IBM'
+	    > LIMIT 10;
 	2010-02-08	IBM	121.88	0.55
 	2010-02-05	IBM	123.52	NULL
 	2010-02-04	IBM	123.0	NULL
@@ -423,10 +423,10 @@ The above query will return all columns from the table with no ordering or limit
 **FULL OUTER JOIN**
 
 	hive> SELECT s.ymd, s.symbol, s.price_close, d.dividend
-	> FROM dividends d FULL OUTER JOIN stocks s
-	> ON d.ymd = s.ymd AND d.symbol = s.symbol
-	> WHERE s.symbol = 'IBM'
-	> LIMIT 20;
+	    > FROM dividends d FULL OUTER JOIN stocks s
+	    > ON d.ymd = s.ymd AND d.symbol = s.symbol
+	    > WHERE s.symbol = 'IBM'
+	    > LIMIT 20;
 	1962-01-02	IBM	572.0	NULL
 	1962-01-03	IBM	577.0	NULL
 	1962-01-04	IBM	571.25	NULL
@@ -436,9 +436,9 @@ The above query will return all columns from the table with no ordering or limit
 **LEFT SEMI-JOIN**
 
 	hive> SELECT s.ymd, s.symbol, s.price_close
-	> FROM stocks s LEFT SEMI JOIN dividends d
-	> ON s.ymd = d.ymd AND s.symbol = d.symbol
-	> LIMIT 10;
+	    > FROM stocks s LEFT SEMI JOIN dividends d
+	    > ON s.ymd = d.ymd AND s.symbol = d.symbol
+	    > LIMIT 10;
 	2005-05-18	AIPC	22.38
 	2005-02-17	AIPC	27.96
 	2004-11-18	AIPC	19.9
@@ -448,9 +448,9 @@ The above query will return all columns from the table with no ordering or limit
 **ORDER BY and SORT BY**
 
 	hive> SELECT s.ymd, s.symbol, s.price_close
-	> FROM stocks s
-	> ORDER BY s.ymd DESC, s.symbol ASC
-	> LIMIT 10;
+	    > FROM stocks s
+	    > ORDER BY s.ymd DESC, s.symbol ASC
+	    > LIMIT 10;
 	2010-02-08	AACC	5.46
 	2010-02-08	AAME	1.44
 	2010-02-08	AAON	20.68
@@ -458,9 +458,9 @@ The above query will return all columns from the table with no ordering or limit
 	...
 
 	hive> SELECT s.ymd, s.symbol, s.price_close
-	> FROM stocks s
-	> SORT BY s.ymd DESC, s.symbol ASC
-	> LIMIT 10;
+	    > FROM stocks s
+	    > SORT BY s.ymd DESC, s.symbol ASC
+	    > LIMIT 10;
 	2010-02-08	AACC	5.46
 	2010-02-08	AAME	1.44
 	2010-02-08	AAON	20.68

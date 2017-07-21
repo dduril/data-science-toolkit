@@ -264,13 +264,13 @@ The above query will return all columns from the table with no ordering or limit
 	hive> SELECT name AS Name, length(name) AS LengthOfName, 
 	    > upper(name) AS UpperName, lower(name) AS LowerName 
 	    > FROM employees ORDER BY name ASC;
-	Bill King			9	BILL KING			bill king
-	Boss Man			8	BOSS MAN			boss man
-	Fred Finance		12	FRED FINANCE		fred finance
-	John Doe			8	JOHN DOE			john doe
-	Mary Smith			10	MARY SMITH			mary smith
-	Stacy Accountant	16	STACY ACCOUNTANT	stacy accountant
-	Todd Jones			10	TODD JONES			todd jones
+	Bill King           9   BILL KING         bill king
+	Boss Man            8   BOSS MAN          boss man
+	Fred Finance        12  FRED FINANCE      fred finance
+	John Doe            8   JOHN DOE          john doe
+	Mary Smith          10  MARY SMITH        mary smith
+	Stacy Accountant    16  STACY ACCOUNTANT  stacy accountant
+	Todd Jones          10  TODD JONES        todd jones
 
 **LIMIT Clause**
 

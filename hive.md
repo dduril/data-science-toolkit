@@ -329,6 +329,23 @@ The above query will return all columns from the table with no ordering or limit
 
 **LIKE and RLIKE**
 
+	hive> SELECT name, address.street FROM employees WHERE address.street LIKE '%Ave.';
+	John Doe		1 Michigan Ave.
+	Todd Jones		200 Chicago Ave.
+
+	hive> SELECT name, address.street FROM employees WHERE address.street LIKE '2%';
+	Todd Jones		200 Chicago Ave.
+	Fred Finance	2 Pretentious Drive.
+
+	hive> SELECT name, address.street FROM employees WHERE address.street LIKE '%P%';
+	Boss Man		1 Pretentious Drive.
+	Fred Finance	2 Pretentious Drive.
+
+	hive> SELECT  name, address.street
+        > FROM employees WHERE address.street RLIKE '.*(Chicago|Ontario).*';
+	Mary Smith	100 Ontario St.
+	Todd Jones	200 Chicago Ave.
+
 **GROUP BY Clauses**
 
 **HAVING Clauses**

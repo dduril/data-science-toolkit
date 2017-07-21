@@ -348,11 +348,57 @@ The above query will return all columns from the table with no ordering or limit
 
 **GROUP BY Clauses**
 
+	hive> SELECT year(ymd), avg(price_close) FROM stocks
+        > WHERE exchange_name = 'NASDAQ' AND symbol = 'AAPL'
+        > GROUP BY year(ymd);
+	1984	25.578625440597534
+	1985	20.193676221040867
+	1986	32.46102808021274
+	1987	53.88968399108163
+	1988	41.540079275138766
+	1989	41.65976212516664
+	1990	37.56268799823263
+	1991	52.49553383386182
+	1992	54.80338610251119
+	1993	41.02671956450572
+	...
+
 **HAVING Clauses**
+
+	hive> SELECT year(ymd), avg(price_close) FROM stocks
+	    > WHERE exchange_name = 'NASDAQ' AND symbol = 'AAPL'
+	    > GROUP BY year(ymd)
+	    > HAVING avg(price_close) > 50.0;
+	1987	53.88968399108163
+	1991	52.49553383386182
+	1992	54.80338610251119
+	1999	57.77071460844979
+	2000	71.74892876261757
+	2005	52.401745992993554
+	2006	70.81063753105255
+	2007	128.27390423049016
+	2008	141.9790115054888
+	2009	146.81412711976066
+	2010	204.72159912109376
 
 **JOIN Statements**
 
 **Inner JOIN**
+
+	hive> SELECT a.ymd, a.price_close, b.price_close
+        > FROM stocks a JOIN stocks b ON a.ymd = b.ymd
+        > WHERE a.symbol = 'AAPL' AND b.symbol = 'IBM'
+        > LIMIT 10;
+	1984-09-07	26.5	121.62
+	1984-09-10	26.37	122.75
+	1984-09-11	26.87	122.25
+	1984-09-12	26.12	122.5
+	1984-09-13	27.5	126.12
+	1984-09-14	27.87	126.75
+	1984-09-17	28.62	127.62
+	1984-09-18	27.62	126.62
+	1984-09-19	27.0	125.87
+	1984-09-20	27.12	126.0
 
 **LEFT OUTER JOIN**
 

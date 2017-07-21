@@ -236,9 +236,58 @@ The above query will return all columns from the table with no ordering or limit
 
 **Using Functions**
 
+	hive> SELECT upper(name), salary, deductions["Federal Taxes"], 
+	    > round(salary * (1 - deductions["Federal Taxes"])) 
+	    > FROM employees;
+	JOHN DOE			100000.0	0.2		80000.0
+	MARY SMITH			80000.0		0.2		64000.0
+	TODD JONES			70000.0		0.15	59500.0
+	BILL KING			60000.0		0.15	51000.0
+	BOSS MAN			200000.0	0.3		140000.0
+	FRED FINANCE		150000.0	0.3		105000.0
+	STACY ACCOUNTANT	60000.0		0.15	51000.0
+	
+	hive> SELECT count(*), round(avg(salary), 2) FROM employees;
+	7	102857.14
+	
+	hive> SELECT count(DISTINCT symbol) FROM stocks;
+	743
+	
+	hive> SELECT explode(subordinates) AS sub FROM employees;
+	Mary Smith
+	Todd Jones
+	Bill King
+	John Doe
+	Fred Finance
+	Stacy Accountant
+	
+	
+	hive> SELECT name AS Name, length(name) AS LengthOfName, 
+	    > upper(name) AS UpperName, lower(name) AS LowerName 
+	    > FROM employees ORDER BY name ASC;
+	Bill King			9	BILL KING			bill king
+	Boss Man			8	BOSS MAN			boss man
+	Fred Finance		12	FRED FINANCE		fred finance
+	John Doe			8	JOHN DOE			john doe
+	Mary Smith			10	MARY SMITH			mary smith
+	Stacy Accountant	16	STACY ACCOUNTANT	stacy accountant
+	Todd Jones			10	TODD JONES			todd jones
+
 **LIMIT Clause**
 
+	hive> SELECT upper(name), salary, deductions["Federal Taxes"], 
+	    > round(salary * (1 - deductions["Federal Taxes"])) 
+	    > FROM employees LIMIT 2;
+	JOHN DOE	100000.0	0.2		80000.0
+	MARY SMITH	80000.0		0.2		64000.0
+
 **Column Aliases**
+
+	hive> SELECT upper(name), salary, deductions["Federal Taxes"] AS fed_taxes, 
+	    > round(salary * (1 - deductions["Federal Taxes"])) AS salary_minus_fed_taxes 
+	    > FROM employees LIMIT 2;
+	JOHN DOE	100000.0	0.2		80000.0
+	MARY SMITH	80000.0		0.2		64000.0
 
 **Nested SELECT Statements**
 

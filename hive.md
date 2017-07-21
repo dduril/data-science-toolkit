@@ -4,6 +4,14 @@
 
 Working from **Programming Hive** (*O'Reilly Media, Inc., 2012*)
 
+Notes:
+
+Downloaded and installed datasets and working on a virtual machine running... TODO...
+
+TODO...Coding queries and views to learn how to work with Hive.
+
+---
+
 ### Data Ingestion
 
 Load data from HiveQL script file:
@@ -63,6 +71,8 @@ data_ingest.hql
 	STORED AS TEXTFILE;
 	
 	LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/programming_hive/data/dividends/dividends.csv' OVERWRITE INTO TABLE dividends;
+
+---
 
 ### Hive Session
 
@@ -224,6 +234,57 @@ The above query will return all columns from the table with no ordering or limit
 	Fred Finance	Chicago
 	Stacy Accountant	Naperville
 
+**Using Functions**
+
+**LIMIT Clause**
+
+**Column Aliases**
+
+**Nested SELECT Statements**
+
+**CASE...WHEN...THEN Statements**
+
+**WHERE Clauses**
+
+**LIKE and RLIKE**
+
+**GROUP BY Clauses**
+
+**HAVING Clauses**
+
+**JOIN Statements**
+
+**Inner JOIN**
+
+**LEFT OUTER JOIN**
+
+
+
+**RIGHT OUTER JOIN**
+
+
+
+**FULL OUTER JOIN**
+
+
+
+**LEFT SEMI-JOIN**
+
+
+
+**ORDER BY and SORT BY**
+
+
+
+**DISTRIBUTE BY with SORT BY**
+
+
+
+**CLUSTER BY**
+
+
+
+**Casting**
 
 
 

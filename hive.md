@@ -303,12 +303,12 @@ The above query will return all columns from the table with no ordering or limit
 **CASE...WHEN...THEN Statements**
 
 	hive> SELECT name, salary,
-    	> CASE
-    	> WHEN salary < 50000.0 THEN 'low'
-    	> WHEN salary >= 50000.0 AND salary < 70000.0  THEN 'middle'
-    	> WHEN salary >= 70000.0 AND salary < 100000.0  THEN 'high'
-    	> ELSE 'very high'
-    	> END AS bracket FROM employees;
+        > CASE
+        > WHEN salary < 50000.0 THEN 'low'
+        > WHEN salary >= 50000.0 AND salary < 70000.0  THEN 'middle'
+        > WHEN salary >= 70000.0 AND salary < 100000.0  THEN 'high'
+        > ELSE 'very high'
+        > END AS bracket FROM employees;
 	John Doe			100000.0	very high
 	Mary Smith			80000.0		high
 	Todd Jones			70000.0		high

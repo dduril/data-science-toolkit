@@ -35,7 +35,8 @@ data_ingest.hql
 	LINES TERMINATED BY '\n'
 	STORED AS TEXTFILE;
 	
-	LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/programming_hive/data/employees/employees.txt' OVERWRITE INTO TABLE employees;
+	LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/programming_hive/data/employees/employees.txt' 
+	OVERWRITE INTO TABLE employees;
 	
 	CREATE EXTERNAL TABLE IF NOT EXISTS stocks(
 	exchange_name	STRING,
@@ -53,7 +54,8 @@ data_ingest.hql
 	LINES TERMINATED BY '\n'
 	STORED AS TEXTFILE;
 	
-	LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/programming_hive/data/stocks/stocks.csv' OVERWRITE INTO TABLE stocks;
+	LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/programming_hive/data/stocks/stocks.csv' 
+	OVERWRITE INTO TABLE stocks;
 	
 	CREATE EXTERNAL TABLE IF NOT EXISTS dividends(
 	exchange_name	STRING,
@@ -66,7 +68,8 @@ data_ingest.hql
 	LINES TERMINATED BY '\n'
 	STORED AS TEXTFILE;
 	
-	LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/programming_hive/data/dividends/dividends.csv' OVERWRITE INTO TABLE dividends;
+	LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/programming_hive/data/dividends/dividends.csv' 
+	OVERWRITE INTO TABLE dividends;
 
 ---
 
@@ -389,30 +392,80 @@ The above query will return all columns from the table with no ordering or limit
 	1984-09-10	26.37	122.75
 	1984-09-11	26.87	122.25
 	1984-09-12	26.12	122.5
-	1984-09-13	27.5	126.12
-	1984-09-14	27.87	126.75
-	1984-09-17	28.62	127.62
-	1984-09-18	27.62	126.62
-	1984-09-19	27.0	125.87
-	1984-09-20	27.12	126.0
+	...
 
 **LEFT OUTER JOIN**
 
+	hive> SELECT s.ymd, s.symbol, s.price_close, d.dividend
+	> FROM stocks s LEFT OUTER JOIN dividends d
+	> ON s.ymd = d.ymd AND s.symbol = d.symbol
+	> WHERE s.symbol = 'IBM'
+	> LIMIT 10;
+	2010-02-08	IBM	121.88	0.55
+	2010-02-05	IBM	123.52	NULL
+	2010-02-04	IBM	123.0	NULL
+	2010-02-03	IBM	125.66	NULL
+	...
+
 **RIGHT OUTER JOIN**
+
+	hive> SELECT s.ymd, s.symbol, s.price_close, d.dividend
+	> FROM dividends d RIGHT OUTER JOIN stocks s
+	> ON d.ymd = s.ymd AND d.symbol = s.symbol
+	> WHERE s.symbol = 'IBM'
+	> LIMIT 10;
+	2010-02-08	IBM	121.88	0.55
+	2010-02-05	IBM	123.52	NULL
+	2010-02-04	IBM	123.0	NULL
+	2010-02-03	IBM	125.66	NULL
+	...
 
 **FULL OUTER JOIN**
 
+	hive> SELECT s.ymd, s.symbol, s.price_close, d.dividend
+	> FROM dividends d FULL OUTER JOIN stocks s
+	> ON d.ymd = s.ymd AND d.symbol = s.symbol
+	> WHERE s.symbol = 'IBM'
+	> LIMIT 20;
+	1962-01-02	IBM	572.0	NULL
+	1962-01-03	IBM	577.0	NULL
+	1962-01-04	IBM	571.25	NULL
+	1962-01-05	IBM	560.0	NULL
+	...
+
 **LEFT SEMI-JOIN**
+
+	hive> SELECT s.ymd, s.symbol, s.price_close
+	> FROM stocks s LEFT SEMI JOIN dividends d
+	> ON s.ymd = d.ymd AND s.symbol = d.symbol
+	> LIMIT 10;
+	2005-05-18	AIPC	22.38
+	2005-02-17	AIPC	27.96
+	2004-11-18	AIPC	19.9
+	2004-07-01	AIPC	30.4
+	...
 
 **ORDER BY and SORT BY**
 
-**DISTRIBUTE BY with SORT BY**
+	hive> SELECT s.ymd, s.symbol, s.price_close
+	> FROM stocks s
+	> ORDER BY s.ymd DESC, s.symbol ASC
+	> LIMIT 10;
+	2010-02-08	AACC	5.46
+	2010-02-08	AAME	1.44
+	2010-02-08	AAON	20.68
+	2010-02-08	AAPL	194.12
+	...
 
-**CLUSTER BY**
-
-**Casting**
-
-
+	hive> SELECT s.ymd, s.symbol, s.price_close
+	> FROM stocks s
+	> SORT BY s.ymd DESC, s.symbol ASC
+	> LIMIT 10;
+	2010-02-08	AACC	5.46
+	2010-02-08	AAME	1.44
+	2010-02-08	AAON	20.68
+	2010-02-08	AAPL	194.12
+	...
 
 
 

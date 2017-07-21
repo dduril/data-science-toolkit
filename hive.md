@@ -4,11 +4,7 @@
 
 Working from **Programming Hive** (*O'Reilly Media, Inc., 2012*)
 
-Notes:
-
-Downloaded and installed datasets and working on a virtual machine running... TODO...
-
-TODO...Coding queries and views to learn how to work with Hive.
+The following Hive queries were executed on a virtual machine running Cloudera Quickstart VM 5.8 (CentOS 6.7, Hadoop 2.6.0, Spark 1.6, HBase 1.2, Hive 1.1, Pig 0.12, Java 1.8.
 
 ---
 

@@ -156,40 +156,40 @@ The above query will return all columns from the table with no ordering or limit
 **Additional Queries and Output**
 
 	hive> SELECT name, salary FROM employees;
-	John Doe	100000.0
-	Mary Smith	80000.0
-	Todd Jones	70000.0
-	Bill King	60000.0
-	Boss Man	200000.0
-	Fred Finance	150000.0
-	Stacy Accountant	60000.0
+	John Doe          100000.0
+	Mary Smith        80000.0
+	Todd Jones        70000.0
+	Bill King         60000.0
+	Boss Man          200000.0
+	Fred Finance      150000.0
+	Stacy Accountant  60000.0
 	
 	hive> SELECT name, subordinates FROM employees;
-	John Doe	["Mary Smith","Todd Jones"]
-	Mary Smith	["Bill King"]
-	Todd Jones	[]
-	Bill King	[]
-	Boss Man	["John Doe","Fred Finance"]
-	Fred Finance	["Stacy Accountant"]
-	Stacy Accountant	[]
+	John Doe          ["Mary Smith","Todd Jones"]
+	Mary Smith        ["Bill King"]
+	Todd Jones        []
+	Bill King         []
+	Boss Man          ["John Doe","Fred Finance"]
+	Fred Finance      ["Stacy Accountant"]
+	Stacy Accountant  []
 	
 	hive> SELECT name, deductions FROM employees;
-	John Doe	{"Federal Taxes":0.2,"State Taxes":0.05,"Insurance":0.1}
-	Mary Smith	{"Federal Taxes":0.2,"State Taxes":0.05,"Insurance":0.1}
-	Todd Jones	{"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
-	Bill King	{"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
-	Boss Man	{"Federal Taxes":0.3,"State Taxes":0.07,"Insurance":0.05}
-	Fred Finance	{"Federal Taxes":0.3,"State Taxes":0.07,"Insurance":0.05}
-	Stacy Accountant	{"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
+	John Doe          {"Federal Taxes":0.2,"State Taxes":0.05,"Insurance":0.1}
+	Mary Smith        {"Federal Taxes":0.2,"State Taxes":0.05,"Insurance":0.1}
+	Todd Jones        {"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
+	Bill King         {"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
+	Boss Man          {"Federal Taxes":0.3,"State Taxes":0.07,"Insurance":0.05}
+	Fred Finance      {"Federal Taxes":0.3,"State Taxes":0.07,"Insurance":0.05}
+	Stacy Accountant  {"Federal Taxes":0.15,"State Taxes":0.03,"Insurance":0.1}
 	
 	hive> SELECT name, address FROM employees;
-	John Doe	{"street":"1 Michigan Ave.","city":"Chicago","state":"IL","zip":60600}
-	Mary Smith	{"street":"100 Ontario St.","city":"Chicago","state":"IL","zip":60601}
-	Todd Jones	{"street":"200 Chicago Ave.","city":"Oak Park","state":"IL","zip":60700}
-	Bill King	{"street":"300 Obscure Dr.","city":"Obscuria","state":"IL","zip":60100}
-	Boss Man	{"street":"1 Pretentious Drive.","city":"Chicago","state":"IL","zip":60500}
-	Fred Finance	{"street":"2 Pretentious Drive.","city":"Chicago","state":"IL","zip":60500}
-	Stacy Accountant	{"street":"300 Main St.","city":"Naperville","state":"IL","zip":60563}
+	John Doe          {"street":"1 Michigan Ave.","city":"Chicago","state":"IL","zip":60600}
+	Mary Smith        {"street":"100 Ontario St.","city":"Chicago","state":"IL","zip":60601}
+	Todd Jones        {"street":"200 Chicago Ave.","city":"Oak Park","state":"IL","zip":60700}
+	Bill King         {"street":"300 Obscure Dr.","city":"Obscuria","state":"IL","zip":60100}
+	Boss Man          {"street":"1 Pretentious Drive.","city":"Chicago","state":"IL","zip":60500}
+	Fred Finance      {"street":"2 Pretentious Drive.","city":"Chicago","state":"IL","zip":60500}
+	Stacy Accountant  {"street":"300 Main St.","city":"Naperville","state":"IL","zip":60563}
 	
 	--
 	-- example of accessing an element from an array type
@@ -197,13 +197,13 @@ The above query will return all columns from the table with no ordering or limit
 	--
 
 	hive> SELECT name, subordinates[0] FROM employees;
-	John Doe	Mary Smith
-	Mary Smith	Bill King
-	Todd Jones	NULL
-	Bill King	NULL
-	Boss Man	John Doe
-	Fred Finance	Stacy Accountant
-	Stacy Accountant	NULL
+	John Doe          Mary Smith
+	Mary Smith        Bill King
+	Todd Jones        NULL
+	Bill King         NULL
+	Boss Man          John Doe
+	Fred Finance      Stacy Accountant
+	Stacy Accountant  NULL
 	
 	--
 	-- example of accessing a key from a map type - Federal Taxes, State Taxes, or Insurance
@@ -211,13 +211,13 @@ The above query will return all columns from the table with no ordering or limit
 	--
 
 	hive> SELECT name, deductions["State Taxes"] FROM employees;
-	John Doe	0.05
-	Mary Smith	0.05
-	Todd Jones	0.03
-	Bill King	0.03
-	Boss Man	0.07
-	Fred Finance	0.07
-	Stacy Accountant	0.03
+	John Doe          0.05
+	Mary Smith        0.05
+	Todd Jones        0.03
+	Bill King         0.03
+	Boss Man          0.07
+	Fred Finance      0.07
+	Stacy Accountant  0.03
 	
 	--
 	-- example of accessing a field from a struct type - street, city, state, or zip
@@ -225,26 +225,26 @@ The above query will return all columns from the table with no ordering or limit
 	--
 
 	hive> SELECT name, address.city FROM employees;
-	John Doe	Chicago
-	Mary Smith	Chicago
-	Todd Jones	Oak Park
-	Bill King	Obscuria
-	Boss Man	Chicago
-	Fred Finance	Chicago
-	Stacy Accountant	Naperville
+	John Doe          Chicago
+	Mary Smith        Chicago
+	Todd Jones        Oak Park
+	Bill King         Obscuria
+	Boss Man          Chicago
+	Fred Finance      Chicago
+	Stacy Accountant  Naperville
 
 **Using Functions**
 
 	hive> SELECT upper(name), salary, deductions["Federal Taxes"], 
 	    > round(salary * (1 - deductions["Federal Taxes"])) 
 	    > FROM employees;
-	JOHN DOE			100000.0	0.2		80000.0
-	MARY SMITH			80000.0		0.2		64000.0
-	TODD JONES			70000.0		0.15	59500.0
-	BILL KING			60000.0		0.15	51000.0
-	BOSS MAN			200000.0	0.3		140000.0
-	FRED FINANCE		150000.0	0.3		105000.0
-	STACY ACCOUNTANT	60000.0		0.15	51000.0
+	JOHN DOE          100000.0   0.2     80000.0
+	MARY SMITH        80000.0    0.2     64000.0
+	TODD JONES        70000.0    0.15    59500.0
+	BILL KING         60000.0    0.15    51000.0
+	BOSS MAN          200000.0   0.3     140000.0
+	FRED FINANCE      150000.0   0.3     105000.0
+	STACY ACCOUNTANT  60000.0    0.15    51000.0
 	
 	hive> SELECT count(*), round(avg(salary), 2) FROM employees;
 	7	102857.14
@@ -321,10 +321,10 @@ The above query will return all columns from the table with no ordering or limit
 	hive> SELECT name, address.street, address.city, address.state, address.zip 
 	    > FROM employees
         > WHERE address.city = 'Chicago' AND address.state = 'IL';
-	John Doe        1 Michigan Ave.			Chicago	IL	60600
-	Mary Smith      100 Ontario St.			Chicago	IL	60601
-	Boss Man        1 Pretentious Drive.	Chicago	IL	60500
-	Fred Finance    2 Pretentious Drive.	Chicago	IL	60500
+	John Doe        1 Michigan Ave.         Chicago  IL  60600
+	Mary Smith      100 Ontario St.         Chicago  IL  60601
+	Boss Man        1 Pretentious Drive.    Chicago  IL  60500
+	Fred Finance    2 Pretentious Drive.    Chicago  IL  60500
 
 **LIKE and RLIKE**
 

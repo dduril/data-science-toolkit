@@ -91,11 +91,6 @@ for Apache Hadoop
 	- **[Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)**
 	- **[Visualising Data](http://www.visualisingdata.com/resources/)**
 
-### Fog Computing
-
-- **[Fog Computing](https://en.wikipedia.org/wiki/Fog_computing)** - Wikipedia
-- **[OpenFog](https://www.openfogconsortium.org/)**
-
 ### Graph Databases and Tools
 
 - **[Gephi](https://gephi.org/)** - Open Graph Viz Platform
@@ -268,7 +263,9 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[Quandl](https://www.quandl.com/)**
 - **[United States Patent and Trademark Office](https://www.uspto.gov/)** (USTPO)
 
-### Additional Reading
+---
+
+### Additional Reading and Websites
 
 - **[Big Data](https://en.wikipedia.org/wiki/Big_data)** - Wikipedia
 - **[AWS](https://aws.amazon.com/big-data/)**
@@ -288,10 +285,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Additional (Unsorted)
 
-- **[Continuum Analytics](https://www.continuum.io/)**
 - **[Google Cloud Platform](https://cloud.google.com/)**
-- **[Jupyter](http://jupyter.org/)**
-- **[RapidMiner](https://rapidminer.com/)**
 - **What is Hadoop?**
 	- **[Cloudera](https://www.cloudera.com/products/open-source/apache-hadoop.html)**
 	- **[Hortonworks](https://hortonworks.com/apache/hadoop/)**
@@ -312,10 +306,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - Hadoop: The Definitive Guide _(O'Reilly)_
 - Hadoop2 Quick-Start Guide _(Addison-Wesley)_
 - Hadoop in Practice _(Manning)_
-- Learning Spark: Lightning-Fast Big Data Analysis _(O'Reilly)_
 - Practical Data Science with Hadoop and Spark _(Addison-Wesley)_
 - Programming Hive: Data Warehouse and Query Language for Hadoop _(O'Reilly)_
-- Spark in Action _(Manning)_
 
 **Java**
 
@@ -342,3 +334,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 - Scala in Action _(Manning)_
 - Scala Cookbook _(O'Reilly)_
+
+**Spark**
+
+- Learning Spark: Lightning-Fast Big Data Analysis _(O'Reilly)_
+- Spark in Action _(Manning)_

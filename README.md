@@ -178,6 +178,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[Neo4j - Wikipedia](https://en.wikipedia.org/wiki/Neo4j)**
 - **[Graph Databases - Wikipedia](https://en.wikipedia.org/wiki/Graph_database)**
 
+### Platforms - Hadoop
+
+- **[Cloudera](http://cloudera.com/)** 
+- **[Hortonworks](http://hortonworks.com/hadoop/)**
+- **[MapR](https://www.mapr.com/)**
+
 ### Python
 
 - **[Python](https://www.python.org/)**

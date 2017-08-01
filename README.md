@@ -247,12 +247,15 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[R-bloggers](https://www.r-bloggers.com/)**
 - **[Udacity Data Science Resources](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)**
 
-### Certificates
+### Certification
 
 - **[AWS](https://aws.amazon.com/certification/)**
 - **[Cloudera](https://www.cloudera.com/more/training/certification.html)**
 - **[Hortonworks](https://hortonworks.com/services/training/certification/)**
 - **[MapR](https://mapr.com/training/certification/)**
+- **[MongoDB](https://university.mongodb.com/certification)**
+- **[Oracle](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=39)**
+- **[SAS](https://www.sas.com/en_us/certification.html)**
 
 ### Online Training
 

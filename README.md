@@ -228,6 +228,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[MobaXTerm](http://mobaxterm.mobatek.net/)**
 
 ### SQLite
+
 - **[SQLite](https://www.sqlite.org/)**
 - **[SQLite Browser](http://sqlitebrowser.org/)**
 
@@ -245,6 +246,13 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[Master's in Data Science](http://www.mastersindatascience.org/careers/)**
 - **[R-bloggers](https://www.r-bloggers.com/)**
 - **[Udacity Data Science Resources](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)**
+
+### Certificates
+
+- **[AWS](https://aws.amazon.com/certification/)**
+- **[Cloudera](https://www.cloudera.com/more/training/certification.html)**
+- **[Hortonworks](https://hortonworks.com/services/training/certification/)**
+- **[MapR](https://mapr.com/training/certification/)**
 
 ### Online Training
 

@@ -248,6 +248,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Online Training
 
+- **[Cognitive Class](https://cognitiveclass.ai/)** (Formerly IBM Big Data University)
 - **[DataCamp](https://www.datacamp.com/)**
 - **[Dataquest](https://www.dataquest.io/home)**
 

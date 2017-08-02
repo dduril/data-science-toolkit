@@ -2,11 +2,9 @@
 
 Resources for Big Data and Data Analytics Projects. 
 
-I have completed a number of courses offered by <a href="https://www.coursera.org/" target="_blank"><strong>Coursera</strong></a> - <a href="https://www.coursera.org/specializations/bigdata"><strong>Big Data</strong></a>, and tracking popular online resources and tools in this repository. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
+I have completed a number of courses offered by **[Coursera](https://www.coursera.org/)** in **[Big Data](https://www.coursera.org/specializations/bigdata)** and **[Python](https://www.coursera.org/specializations/python)**, and tracking popular online resources and tools in this repository. As my studies continue, I'll update this list accordingly. _(This Coursera Specialization was recently revised, so they have some additional tools and topics)_
 
-More recently, I am enrolled at **[UCSC Silicon Valley](https://www.ucsc-extension.edu/)** and attending courses for a **[Database and Data Analytics Certificate](https://www.ucsc-extension.edu/programs/database-systems/schedule)**. The courses include: Data Analysis, NoSQL Databases, Data Visualization (Tableau), Internet of Things: Big Data Processing and Analytics, Hadoop: Distributed Processing of Big Data, and Spark with Scala.
-
-Also included are a number of resources for developing web applications for after the data has been processed, parsed and made ready for presentation. For my coursework, much of the output is viewed using analytic platforms such as Splunk or Neo4j. In other cases, output is directed to a terminal window. I've also experimented with Google Analytics and d3.js.
+More recently, I attended **[UCSC Silicon Valley](https://www.ucsc-extension.edu/)** and completed a certificate program in **[Database and Data Analytics](https://www.ucsc-extension.edu/programs/database-systems/schedule)**. Coursework include: Introduction to Data Analysis, Introduction to NoSQL Databases, Data Visualization using Tableau, Internet of Things: Big Data Processing and Analytics, Hadoop: Distributed Processing of Big Data, and Spark with Scala.
 
 ### Apache Projects
 
@@ -247,7 +245,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 - **[R-bloggers](https://www.r-bloggers.com/)**
 - **[Udacity Data Science Resources](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)**
 
-### Certification
+### Certifications
 
 - **[AWS](https://aws.amazon.com/certification/)**
 - **[Cloudera](https://www.cloudera.com/more/training/certification.html)**
@@ -287,16 +285,13 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 - **[Big Data](https://en.wikipedia.org/wiki/Big_data)** - Wikipedia
 - **[AWS](https://aws.amazon.com/big-data/)**
-- **[Cloudera](http://cloudera.com/)**
 - **[DataStax](http://www.datastax.com/)**
 - **[Elastic](https://www.elastic.co/)**
 	- **[Elasticsearch](https://www.elastic.co/products/elasticsearch)**
 	- **[Logstash](https://www.elastic.co/products/logstash)**
 	- **[Kibana](https://www.elastic.co/products/kibana)**
 	- **[Beats](https://www.elastic.co/products/beats)** 
-- **[Hortonworks](http://hortonworks.com/hadoop/)**
 - **[IBM Big Data](http://www.ibm.com/big-data/us/en/)**
-- **[MapR](https://www.mapr.com/)**
 - **[O'Reilly Radar](http://radar.oreilly.com/)**
 - **[Palantir](https://www.palantir.com/)**
 - **[Splunk](http://www.splunk.com/)**
@@ -330,6 +325,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 **Java**
 
 - Java - A Beginner's Guide - Sixth Edition _(Oracle Press)_
+
+**Linux**
+
+- Beginning Ubuntu Linux _(Apress)_
+- Linux in a Nutshell _(O'Reilly)_
+- The Linux Command Line _(No Starch Press)_
 
 **Python**
 

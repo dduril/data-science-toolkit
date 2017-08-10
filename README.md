@@ -310,6 +310,8 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Recommended Books
 
+Here are a few books that were recommended texts for coursework and some that I picked up as part of my personal continuous learning program. Some are better as reference material, although I try to find books that work best as tutorials - the Murach books are particularly good at this.
+
 **Amazon Web Services**
 
 - AWS in Action _(Manning)_
@@ -325,6 +327,7 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 **Java**
 
 - Java - A Beginner's Guide - Sixth Edition _(Oracle Press)_
+- Murach's Java Programming, 5th Edition _(Murach)_
 
 **Linux**
 
@@ -335,11 +338,12 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 **Python**
 
 - Automate The Boring Stuff With Python _(No Starch Press)_
+- Data Science from Scratch _(O'Reilly)_
 - Learning Python _(O'Reilly)_
 - Fluent Python _(O'Reilly)_
+- Murach's Python Programming _(Murach)_
 - Python Cookbook _(O'Reilly)_
 - The Quick Python Book _(Manning)_
-- Data Science from Scratch _(O'Reilly)_
 - Web Scraping with Python _(O'Reilly)_
 
 **R**

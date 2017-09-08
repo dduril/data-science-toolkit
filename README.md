@@ -178,9 +178,10 @@ MySQL and SQLite are included as they often serve as the data store and they're 
 
 ### Platforms - Hadoop
 
-- **[Cloudera](http://cloudera.com/)** 
-- **[Hortonworks](http://hortonworks.com/hadoop/)**
-- **[MapR](https://www.mapr.com/)**
+- **[Cloudera - CDH (Cloudera Distribution Including Apache Hadoop)](http://cloudera.com/)** 
+- **[Hortonworks - HDP (Hortonworks Data Platform)](http://hortonworks.com/hadoop/)**
+- **[MapR - Converged Data Platform](https://www.mapr.com/)**
+- **[Syncfusion - Big Data Platform](https://www.syncfusion.com/products/big-data)**
 
 ### Python
 
